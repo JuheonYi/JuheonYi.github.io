@@ -4,9 +4,6 @@ main:
     url: /home/
 
   - title: "Publications"
-    url: /tmpp/
-
-  - title: "Publications2"
     url: /publications/
         
   - title: "Blog Posts"
