@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /home/
     
+  - title: "tmpp"
+    url: /tmpp/
+    
   - title: "Publications2"
     url: /publications2/
 
