@@ -1,10 +1,10 @@
 ---
-permalink: /publications2/
+permalink: /publications/
 layout: archive
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /publications2
+  - /publications
 ---
 
 # test
