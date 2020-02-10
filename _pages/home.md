@@ -8,7 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+[[cv](https://juheonyi.github.io/files/JuheonYi_CV.pdf) (last updated: Feb. 10, 2020)]
+
+I am a researcher in Institute of New Media and Communications in Seoul National University, Korea. I am currently serving my alternative military service (started since Nov. 2018), and plan to start my Ph.D. degree in Sep. 2020. I received by B.S. and M.S. degree from the department of Electrical and Computer engineering in Seoul National University in 2016 (advisor: Sunghyun Choi).
 
 # Education
 
@@ -24,12 +26,6 @@ This is the front page of a website that is powered by the [academicpages templa
 
 # Research Interests
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* AR/VR/MR
+* Mobile Computing
+* Wireless Networking
