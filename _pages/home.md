@@ -8,11 +8,15 @@ redirect_from:
   - /home.html
 ---
 
-[[cv](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Feb. 10, 2020)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Feb. 10, 2020)
 
 # Bio
 
 I am a researcher in Institute of New Media and Communications in Seoul National University, Korea. I am currently serving my alternative compulsory military service (started since Nov. 2018), and plan to start my Ph.D. degree in Sep. 2020. I received by B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 (advisor: Sunghyun Choi).
+
+# News
+
+* [2020.02]<sup><span style="color:red">New</span></sup> I have one paper accepted to ACM MobiCom 2020.
 
 # Experience
 
