@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 # Conferences
-* [ACM MobiCom 2020] Juheon Yi, Sunghyun Choi, and Youngki Lee, "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces," ACM International Conferences on Mobile Computing and Networking (MobiCom) 2020. [[pdf](http://JuheonYi.github.io/files/[MobiCom '20]EagleEye.pdf)] [[slides]()]
+* [ACM MobiCom 2020] Juheon Yi, Sunghyun Choi, and Youngki Lee, "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces," ACM International Conferences on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://JuheonYi.github.io/files/[MobiCom '20]EagleEye.pdf)] [[slides]()]
   * Acceptance ratio: 24/139 = 17.2% (summer round)
-* [IEEE SECON 2018] Juheon Yi, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi, "BlueScan: Boosting Wi-Fi Scanning Efficiency Using Blutooth Ratio," IEEE International Conferences on Sensing, Commuications, and Networking (SECON) 2018. [[pdf](http://JuheonYi.github.io/files/[SECON '18]BlueScan.pdf)] [[slides](http://academicpages.github.io/files/BlueScan-slides.pptx)]
+* [IEEE SECON 2018] Juheon Yi, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi, "BlueScan: Boosting Wi-Fi Scanning Efficiency Using Blutooth Ratio," IEEE International Conferences on Sensing, Commuications, and Networking (SECON) 2018. [[pdf](https://JuheonYi.github.io/files/[SECON '18]BlueScan.pdf)] [[slides](https://academicpages.github.io/files/BlueScan-slides.pptx)]
   * Acceptance ratio: 49/211 = 23.2%
 * [ACM Multimedia 2017] Jonghoe Koo, Juheon Yi, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi, "REQUEST: Seamless Dynamic Adaptive Streaming over HTTP for Multi-Homed Smartphone under Resource Constraints," in Proc. ACM Multimedia 2017. 
-(Acceptance ratio: 28.3% = 191/675) [[pdf](http://JuheonYi.github.io/files/[MM '17]REQUEST.pdf)]
+(Acceptance ratio: 28.3% = 191/675) [[pdf](https://JuheonYi.github.io/files/[MM '17]REQUEST.pdf)]
 
 # Journals
 *	[IEEE TMC 2019] Jonghoe Koo, Juheon Yi, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi, "Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints," IEEE Transactions on Mobile Computing, July 2019. 
-(Impact factor: 4.098) [[pdf](http://JuheonYi.github.io/files/[TMC '19] REQUEST.pdf)] 
+(Impact factor: 4.098) [[pdf](https://JuheonYi.github.io/files/[TMC '19] REQUEST.pdf)] 
