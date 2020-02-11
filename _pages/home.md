@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am a researcher in Institute of New Media and Communications in Seoul National University, Korea. I am currently serving my alternative compulsory military service (started since Nov. 2018), and plan to start my Ph.D. degree in Sep. 2020. I received by B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 (advisor: Sunghyun Choi).
+I am a researcher in the Institute of New Media and Communications in Seoul National University, Korea. I am currently serving my alternative compulsory military service since Nov. 2018, and plan to start my Ph.D. degree in Sep. 2020. I received by B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 (advisor: Sunghyun Choi). My research interests lie in AR/VR/MR and mobile computing systems. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/).
 
 ## News
 
