@@ -25,7 +25,7 @@ I am a researcher in the Institute of New Media and Communications in Seoul Nati
 ## Education
 
 * M.S., Electrical and Computer Engineering, Seoul National University, Sep. 2016 ~ Aug. 2018.
-  * Advisor: Sunghyun Choi 
+  * Advisor: [Sunghyun Choi](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/sunghyun-choi) 
 
 * B.S., Electrical and Computer Engineering, Seoul National University, Mar. 2012 ~ Aug. 2016.
 
