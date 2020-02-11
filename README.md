@@ -6,6 +6,9 @@
 - page width 조절하기: _sass/_page.scss의 span-suffix 비율 조절
 https://github.com/mmistakes/minimal-mistakes/issues/384
 
+마크다운 글씨체
+https://support.discordapp.com/hc/ko/articles/210298617-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%85%8D%EC%8A%A4%ED%8A%B8-101-%EC%B1%84%ED%8C%85-%EC%84%9C%EC%8B%9D-%EA%B5%B5%EA%B2%8C-%EA%B8%B0%EC%9A%B8%EC%9E%84%EA%BC%B4-%EB%B0%91%EC%A4%84-
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
