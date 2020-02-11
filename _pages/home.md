@@ -26,10 +26,8 @@ I am a researcher in the Institute of New Media and Communications in Seoul Nati
 
 * M.S., Electrical and Computer Engineering, Seoul National University, Sep. 2016 ~ Aug. 2018.
   * Advisor: Sunghyun Choi 
-  * GPA: 4.25/4.3
 
 * B.S., Electrical and Computer Engineering, Seoul National University, Mar. 2012 ~ Aug. 2016.
-  * GPA: 3.86/4.3 (Magna Cum Laude)
 
 ## Research Interests
 
