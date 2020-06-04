@@ -14,7 +14,7 @@ I am a researcher in the Institute of Computer Technology in Seoul National Univ
 ## News
 
 * [2020.06]<sup><span style="color:red">New</span></sup> We have two papers conditionally accepted to ACM MobiCom 2020 winter round for shepherding.
-* [2020.02] Our paper "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces" has been accepted to ACM MobiCom 2020 summer round.
+* [2019.10] Our paper "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces" has been accepted to ACM MobiCom 2020 summer round.
 
 ## Experience
 
