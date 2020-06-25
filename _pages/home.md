@@ -9,7 +9,7 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: June 2020)
 
-I am a researcher in the Institute of Computer Technology at Seoul National University, Korea. I am currently serving my alternative compulsory military service (started since Nov. 2018). I will start my Ph.D. degree at Department of Computer Science and Engineering, Seoul National University in Sep. 2020. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) ). My research interests include AR/VR/MR and mobile computing systems. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/).
+I am a researcher in the Institute of Computer Technology at Seoul National University, Korea. I am currently serving my alternative compulsory military service (started since Nov. 2018). I will start my Ph.D. degree at Department of Computer Science and Engineering, Seoul National University in Sep. 2020. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) ). My research interests include Augmented Reality (AR) and mobile/embedded deep learning systems. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/).
 
 ## News
 
@@ -33,7 +33,7 @@ I am a researcher in the Institute of Computer Technology at Seoul National Univ
 
 ## Research Interests
 
-* AR/VR/MR
-* Mobile/embedded deep learning
+* Augmented Reality (AR)
+* Mobile/embedded deep learning systems
 * Mobile computing
 * Wireless networking
