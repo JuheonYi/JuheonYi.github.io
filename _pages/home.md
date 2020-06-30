@@ -25,6 +25,8 @@ I am a researcher in the Institute of Computer Technology at Seoul National Univ
   * Researcher, as part of alternative compulsory military service in Korea
 
 ## Education
+* Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
+  * Advisor: [Youngki Lee](http://youngkilee.blogspot.com/) 
 
 * M.S., Electrical and Computer Engineering, Seoul National University, Sep. 2016 ~ Aug. 2018.
   * Advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) 
