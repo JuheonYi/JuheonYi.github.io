@@ -9,7 +9,7 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: June 2020)
 
-I am a researcher in the Institute of Computer Technology at Seoul National University, Korea. I am currently serving my alternative compulsory military service (started since Nov. 2018). I will start my Ph.D. degree at Department of Computer Science and Engineering, Seoul National University in Sep. 2020. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) ). My research interests include Augmented Reality (AR) and mobile/embedded deep learning systems. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/).
+I am a Ph.D. Student in the Department of Computer Science and Engineering, Seoul National University, Korea. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/) on mobile/embedded deep learning systems for Augmented Reality (AR) applications. Prior to my Ph.D. course, I have worked at two research institutes in Seoul National University to serve my alternative compulsory military service. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) ). My research interests include Augmented Reality (AR) and mobile/embedded deep learning systems.
 
 ## News
 
@@ -19,7 +19,7 @@ I am a researcher in the Institute of Computer Technology at Seoul National Univ
 
 ## Experience
 
-* Institute of Computer Technology, Seoul National University, Jun. 2020 ~
+* Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
   * Researcher, as part of the alternative compulsory military service in Korea
 
 * Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
