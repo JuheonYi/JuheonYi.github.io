@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: June 2020)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Aug 2020)
 
 I am a Ph.D. Student in the Department of Computer Science and Engineering, Seoul National University, Korea. I am currently working closely with Prof. [Youngki Lee](http://youngkilee.blogspot.com/) on mobile/embedded deep learning systems for Augmented Reality (AR) applications. Prior to my Ph.D. course, I worked as a researcher at two research institutes in Seoul National University to serve my alternative compulsory military service. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home), now at Samsung Research, Korea). 
 
