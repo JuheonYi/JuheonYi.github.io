@@ -13,8 +13,9 @@ I am a Ph.D. Student in the Department of Computer Science and Engineering, Seou
 
 ## News
 
+* [2020.06]<sup><span style="color:red">New</span></sup> In total, I have 3 papers accepted to ACM MobiCom 2020! I participated in 2 papers as lead author, and 1 as second lead.
 * [2020.06]<sup><span style="color:red">New</span></sup> Our paper "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications" has been accepted to ACM MobiCom 2020 winter round (acceptance rate: 39/218 = 17.8%).
-* [2020.06]<sup><span style="color:red">New</span></sup> We have two papers conditionally accepted to ACM MobiCom 2020 winter round for shepherding (acceptance rate: 39/218 = 17.8%).
+* [2020.06]<sup><span style="color:red">New</span></sup> Our paper "GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos" has been accepted to ACM MobiCom 2020 winter round (acceptance rate: 39/218 = 17.8%).
 * [2019.10] Our paper "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces" has been accepted to ACM MobiCom 2020 summer round (acceptance rate: 24/139 = 17.2%).
 
 ## Experience
