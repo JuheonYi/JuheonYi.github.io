@@ -21,10 +21,10 @@ I am a Ph.D. Student in the Department of Computer Science and Engineering, Seou
 ## Experience
 
 * Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
-  * Researcher, as part of the alternative compulsory military service in Korea
+  * Researcher, as part of the alternative military service in Korea
 
 * Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
-  * Researcher, as part of the alternative compulsory military service in Korea
+  * Researcher, as part of the alternative military service in Korea
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
