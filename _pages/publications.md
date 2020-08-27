@@ -1,11 +1,12 @@
 ---
 permalink: /publications/
 layout: archive
-<!--title: "Publications"-->
 author_profile: true
 redirect_from: 
   - /publications
 ---
+
+<!--title: "Publications"-->
 
 ## Conferences
 * [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)] [[slides](https://juheonyi.github.io)]
