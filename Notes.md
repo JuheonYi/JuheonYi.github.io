@@ -1,9 +1,10 @@
-### 고치는 법
-- data/navigation.yml -> page 탭
-- includes/archive-single.html --> 페이지 layout. 
+### 새 탭 추가법
+- data/navigation.yml에 추가
+- publications.md를 복사해서 새 탭 만들기. permalink, redirect_from를 navigation.yml이랑 맞추기
 - excerpt 없애니까 해결됨...
-- publications_backup도 없애니까 해결됨..
 
+
+- includes/archive-single.html --> 페이지 layout. 
 - page width 조절하기: _sass/_page.scss의 span-suffix 비율 조절
 https://github.com/mmistakes/minimal-mistakes/issues/384
 
