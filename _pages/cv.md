@@ -9,51 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Research Interests
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Augmented Reality (AR)
+* Mobile/embedded deep learning systems
+* Mobile computing
+* Wireless networking
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
+* Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
+  * Advisor: [Youngki Lee](http://youngkilee.blogspot.com/) 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* M.S., Electrical and Computer Engineering, Seoul National University, Sep. 2016 ~ Aug. 2018.
+  * Advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) 
+
+* B.S., Electrical and Computer Engineering, Seoul National University, Mar. 2012 ~ Aug. 2016.
+
+## Experience
+
+* Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
+  * Researcher, as part of the alternative military service in Korea
+
+* Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
+  * Researcher, as part of the alternative military service in Korea
+
+## Honors & Awards
+
+* Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
+* Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
+  * Full scholarship ($10,000 / year) for undergraduate studies
+  * Granted to only 100 out of the entire nation’s natural science and engineering freshmen in 2012 
+
+## Academic Services
+
+* Reviewer
+  * Journal: IEEE Transactions on Mobile Computing
+  * Conference: IEEE DySPAN 2018, IEEE WCNC 2019, IEEE WCNC 2020
