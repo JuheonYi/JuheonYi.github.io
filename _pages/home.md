@@ -46,7 +46,7 @@ I am a Ph.D. Student in the Department of Computer Science and Engineering, Seou
 
 * Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
 * Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
-  * Full scholarship ($10,000 / year) for under graduate studies
+  * Full scholarship ($10,000 / year) for undergraduate studies
   * Granted to only 100 out of the entire nation’s natural science and engineering freshmen in 2012 
 
 ## Professional Services
