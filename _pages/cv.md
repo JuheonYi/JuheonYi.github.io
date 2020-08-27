@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 ## Research Interests
 
