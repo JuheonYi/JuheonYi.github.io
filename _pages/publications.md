@@ -21,4 +21,5 @@ redirect_from:
   * Acceptance rate: 191/675 = 28.3%
 
 ## Journals
+*	[**IEEE TMC 2020**] **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi, "Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices," accepted to IEEE Transactions on Mobile Computing, September 2020. [[pdf](https://juheonyi.github.io/files/Supremo.pdf)] 
 *	[**IEEE TMC 2019**] Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi, "Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints," IEEE Transactions on Mobile Computing, July 2019. [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)] 
