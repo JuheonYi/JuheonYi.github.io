@@ -9,11 +9,11 @@ redirect_from:
 <!--title: "Publications"-->
 
 ## Conferences
-* [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][slides][video]
+* [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][video]
   * Acceptance rate: 39/218 = 17.8% (winter round)
 * [**ACM MobiCom 2020**] Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim, "GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/GROOT.pdf)] [slides][video]
   * Acceptance rate: 39/218 = 17.8% (winter round)
-* [**ACM MobiCom 2020**] **Juheon Yi**, Sunghyun Choi, and Youngki Lee, "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][slides][video]
+* [**ACM MobiCom 2020**] **Juheon Yi**, Sunghyun Choi, and Youngki Lee, "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][video]
   * Acceptance rate: 24/139 = 17.2% (summer round)
 * [**IEEE SECON 2018**] **Juheon Yi**, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi, "BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio," IEEE International Conference on Sensing, Commuications, and Networking (SECON) 2018. [[pdf](https://juheonyi.github.io/files/BlueScan.pdf)] [[slides](https://juheonyi.github.io/files/BlueScan-slides.pptx)]
   * Acceptance rate: 49/211 = 23.2%
