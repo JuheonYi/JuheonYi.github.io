@@ -9,7 +9,7 @@ redirect_from:
 <!--title: "Publications"-->
 
 ## Conferences
-* [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/Heimdall-video-long.mp4)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/Heimdall-video-short.mp4)]
+* [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/Heimdall-video-20min.mp4)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/Heimdall-video-5min.mp4)]
   * Acceptance rate: 39/218 = 17.8% (winter round)
 * [**ACM MobiCom 2020**] Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim, "GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020. [[pdf](https://juheonyi.github.io/files/GROOT.pdf)] [slides][video]
   * Acceptance rate: 39/218 = 17.8% (winter round)
