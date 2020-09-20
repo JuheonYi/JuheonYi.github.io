@@ -7,8 +7,8 @@ redirect_from:
 ---
 
 <!--title: "Publications"-->
-* [**IEEE TMC 2020**] Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices (to appear) [pdf]
-    * **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
+* [**IEEE TMC 2020**] Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices (to appear) [pdf]\
+    **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
 
 * [**ACM MobiCom 2020**] Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications (acceptance rate: 39/218 = 17.8%, winter round) [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/Heimdall-video-20min.mp4)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/Heimdall-video-5min.mp4)]
 
