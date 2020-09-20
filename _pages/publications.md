@@ -22,7 +22,7 @@ redirect_from:
 * **[ACM MobiCom 2020]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos (acceptance rate: 39/218 = 17.8%, winter round) [[pdf](https://juheonyi.github.io/files/GROOT.pdf)] [slides][video]\
     Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim
   
-* **[ACM MobiCom 2020]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces (acceptance rate: 24/139 = 17.2%, summer round) [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/EagleEye-video-long.mp4)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/EagleEye-video-short.mp4)]\
+* **[ACM MobiCom 2020]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces (acceptance rate: 24/139 = 17.2%, summer round) [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/EagleEye-video-long.mp4)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/EagleEye-video-short.mp4)]\
     **Juheon Yi**, Sunghyun Choi, and Youngki Lee
     
 * **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
