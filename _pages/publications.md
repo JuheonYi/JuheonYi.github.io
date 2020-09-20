@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <!--title: "Publications"-->
-[**IEEE TMC 2020**] Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices (accepted) [pdf]
+* [**IEEE TMC 2020**] Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices (accepted) [pdf]
 
 **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
 
