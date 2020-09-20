@@ -7,7 +7,8 @@ redirect_from:
 ---
 
 <!--title: "Publications"-->
-[**IEEE TMC 2020**] **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi, "Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices," accepted to IEEE Transactions on Mobile Computing, September 2020. [pdf]
+[**IEEE TMC 2020**] Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices (accepted) [pdf]
+  **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi, 
 
 [**ACM MobiCom 2020**] **Juheon Yi** and Youngki Lee, "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications," ACM International Conference on Mobile Computing and Networking (MobiCom) 2020 (acceptance rate: 39/218 = 17.8%, winter round). [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://juheonyi.github.io/files/Heimdall-video-20min.mp4)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://juheonyi.github.io/files/Heimdall-video-5min.mp4)]
   
