@@ -19,7 +19,7 @@ redirect_from:
 * **[ACM MobiCom 2020]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications (acceptance rate: 39/218 = 17.8%, winter round) [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
     **Juheon Yi** and Youngki Lee
   
-* **[ACM MobiCom 2020]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos (acceptance rate: 39/218 = 17.8%, winter round) [[pdf](https://juheonyi.github.io/files/GROOT.pdf)] [slides][[video](https://www.youtube.com/watch?v=99r-vb4Pq6k&t=0s]\
+* **[ACM MobiCom 2020]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos (acceptance rate: 39/218 = 17.8%, winter round) [[pdf](https://juheonyi.github.io/files/GROOT.pdf)] [slides][[video](https://www.youtube.com/watch?v=99r-vb4Pq6k&t=0s)]\
     Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim
   
 * **[ACM MobiCom 2020]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces (acceptance rate: 24/139 = 17.2%, summer round) [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=XSJqI2xbVTo&t=0s)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=0cemvvxiKKI&t=0s)]\
