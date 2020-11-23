@@ -34,10 +34,10 @@ redirect_from:
 ## Honors & Awards
 
 * Microsoft Research Asia Ph.D. Fellowship 2020
-  * Awarded to only 12 Ph.D. students in the Asia-Pacific region
+  * Awarded to top 12 Ph.D. students in the Asia-Pacific region
 * Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
 * Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
-  * Awarded to only 100 out of the entire nation’s freshmen in 2012 
+  * Awarded to top 100 freshmen in Korea
 
 ## Academic Services
 
