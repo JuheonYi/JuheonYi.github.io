@@ -10,10 +10,9 @@ redirect_from:
 
 ## Research Interests
 
-* Augmented Reality (AR)
+* Mixed Reality (MR)
 * Mobile/embedded deep learning systems
 * Mobile computing
-* Wireless networking
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
@@ -27,19 +26,18 @@ redirect_from:
 ## Experience
 
 * Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
-  * Researcher, as part of the alternative military service in Korea
+  * Researcher, as part of the alternative military service
 
 * Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
-  * Researcher, as part of the alternative military service in Korea
+  * Researcher, as part of the alternative military service
 
 ## Honors & Awards
 
 * Microsoft Research Asia Ph.D. Fellowship 2020
-  * Granted to only 12 Ph.D. students in the Asia-Pacific region
+  * Awarded to only 12 Ph.D. students in the Asia-Pacific region
 * Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
 * Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
-  * Granted to only 100 out of the entire nation’s freshmen in 2012 
-  * Full scholarship for undergraduate studies
+  * Awarded to only 100 out of the entire nation’s freshmen in 2012 
 
 ## Academic Services
 
