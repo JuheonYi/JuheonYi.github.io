@@ -15,8 +15,8 @@ Prior to my Ph.D. course, I worked at two research institutes at Seoul National 
 
 ## News
 
-
-* [2020.11]<sup><span style="color:red">New</span></sup> I have been awarded the Microsoft Research Asia Ph.D. Fellowship 2020.
+* [2021.04]<sup><span style="color:red">New</span></sup> I will be starting my research internship at Nokia Bell Labs, Cambridge this fall.
+* [2020.11] I have been awarded the Microsoft Research Asia Ph.D. Fellowship 2020.
 * [2020.09] Our paper "Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices" has been accepted to IEEE Transactions on Mobile Computing.
 * [2020.06] Our paper "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications" has been accepted to ACM MobiCom 2020.
 * [2020.06] Our paper "GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos" has been accepted to ACM MobiCom 2020.
