@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Dec 2020)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Apr 2021)
 
 I am a Ph.D. student advised by Prof. [Youngki Lee](http://youngkilee.blogspot.com/) at the Department of Computer Science and Engineering, Seoul National University, Korea. My research interests lie in Mixed Reality (MR) and mobile deep learning systems. Specifically, my research goal is to design futuristic MR apps, comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
@@ -17,7 +17,6 @@ Prior to my Ph.D. course, I worked at two research institutes at Seoul National 
 
 * [2021.04]<sup><span style="color:red">New</span></sup> I will be starting my research internship at Nokia Bell Labs, Cambridge this fall.
 * [2020.11] I have been awarded the Microsoft Research Asia Ph.D. Fellowship 2020.
-* [2020.09] Our paper "Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices" has been accepted to IEEE Transactions on Mobile Computing.
-* [2020.06] Our paper "Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications" has been accepted to ACM MobiCom 2020.
-* [2020.06] Our paper "GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos" has been accepted to ACM MobiCom 2020.
-* [2019.10] Our paper "EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces" has been accepted to ACM MobiCom 2020.
+* [2020.09] One paper has been accepted to IEEE Transactions on Mobile Computing.
+* [2020.06] Two papers have been accepted to MobiCom 2020 winter round.
+* [2019.10] One paper has been accepted to MobiCom 2020 summer round.
