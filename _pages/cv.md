@@ -33,7 +33,7 @@ redirect_from:
 
 ## Honors & Awards
 
-* Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea.
+* Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
   * $18K funding for research on "Low-Power Mobile Deep Learning System for Multi-Modal Immersive Media Applications"
 * Microsoft Research Asia Ph.D. Fellowship 2020
   * Awarded to top 12 Ph.D. students in the Asia-Pacific region
@@ -44,5 +44,5 @@ redirect_from:
 ## Academic Services
 
 * Reviewer
-  * Journal: IEEE TMC, ACM IMWUT
+  * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
   * Conference: IEEE DySPAN 2018, IEEE WCNC 2019, IEEE WCNC 2020
