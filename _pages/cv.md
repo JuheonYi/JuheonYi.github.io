@@ -44,5 +44,7 @@ redirect_from:
 ## Academic Services
 
 * Reviewer
-  * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  * Conference: IEEE DySPAN 2018, IEEE WCNC 2019, IEEE WCNC 2020
+  * Journal
+    * IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+  * Conference
+    * IEEE DySPAN 2018, IEEE WCNC 2019, IEEE WCNC 2020
