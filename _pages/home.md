@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Apr 2021)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: May 2021)
 
 I am a Ph.D. student advised by Prof. [Youngki Lee](http://youngkilee.blogspot.com/) at the Department of Computer Science and Engineering, Seoul National University, Korea. My research interests lie in Mixed Reality (MR) and mobile deep learning systems. Specifically, my research goal is to design futuristic MR apps, comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
