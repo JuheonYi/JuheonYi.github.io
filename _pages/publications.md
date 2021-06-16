@@ -13,9 +13,7 @@ redirect_from:
 * <span style="color:crimson">**[IEEE TMC 2020]**</span> Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [pdf] (to appear)\
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
-* **[IEEE TMC 2020]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
-    **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
-
+## Conferences
 * **[ACM MobiCom 2020]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
     **Juheon Yi** and Youngki Lee\
     (acceptance rate: 39/218 = 17.8%, winter round)
@@ -27,9 +25,6 @@ redirect_from:
 * **[ACM MobiCom 2020]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=XSJqI2xbVTo&t=0s)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=0cemvvxiKKI&t=0s)]\
     **Juheon Yi**, Sunghyun Choi, and Youngki Lee\
     (acceptance rate: 24/139 = 17.2%, summer round)
-    
-* **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
-    Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
 * **[IEEE SECON 2018]** BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio [[pdf](https://juheonyi.github.io/files/BlueScan.pdf)] [[slides](https://juheonyi.github.io/files/BlueScan-slides.pptx)]\
     **Juheon Yi**, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi\
@@ -38,6 +33,18 @@ redirect_from:
 * **[ACM Multimedia 2017]** REQUEST: Seamless Dynamic Adaptive Streaming over HTTP for Multi-Homed Smartphone under Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST.pdf)]\
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi\
     (acceptance rate: 191/675 = 28.3%)
+
+## Journals
+* **[IEEE TMC 2020]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
+    **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
+
+* **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
+    Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
+
+## Workshops
+* **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications
+    **Juheon Yi**\
+  
 
 <!--
 ## Conferences
