@@ -43,7 +43,7 @@ redirect_from:
 
 ## Workshops
 * **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications\
-    **Juheon Yi**\
+    **Juheon Yi**
   
 
 <!--
