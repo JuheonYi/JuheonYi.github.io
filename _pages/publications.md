@@ -42,7 +42,7 @@ redirect_from:
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
 ## Workshops
-* **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [pdf]\
+* **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [[pdf](https://juheonyi.github.io/files/sms21.pdf)]\
     **Juheon Yi**
   
 
