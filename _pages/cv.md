@@ -33,6 +33,7 @@ redirect_from:
 
 ## Honors & Awards
 
+* Best Paper Award, ACM Students in MobiSys Workshop 2021
 * Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
   * $18K funding for research on "Low-Power Mobile Deep Learning System for Multi-Modal Immersive Media Applications"
 * Microsoft Research Asia Ph.D. Fellowship 2020
@@ -42,11 +43,9 @@ redirect_from:
   * Awarded to top 100 freshmen in Korea
 
 ## Academic Services
+* Technical Program Committee
+  *	ACM Wireless of the Students, by the Students, and for the Students Workshop 2021
 
 * Reviewer
-  * Journal
-    * IEEE Transactions on Mobile Computing (TMC)
-    * ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  * Conference
-    * IEEE WCNC 2019, 2020
-    * IEEE DySPAN 2018
+  * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+  * Conference: IEEE WCNC 2020, 2019, IEEE DySPAN 2018
