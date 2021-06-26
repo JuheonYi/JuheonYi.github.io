@@ -15,7 +15,7 @@ Prior to my Ph.D. course, I worked at two research institutes at Seoul National 
 
 ## News
 
-* [2021.06]<sup><span style="color:red">New</span></sup> My research vision paper won the best paper award in the [Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
+* [2021.06]<sup><span style="color:red">New</span></sup> My research vision paper won the best paper award in the [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
 * [2021.05] I have been awarded the $18K Ph.D. Research Encouragement Funding 2021 from National Research Foundation of Korea.
 * [2021.04] I will be starting my research internship at Nokia Bell Labs, Cambridge, UK this fall.
 * [2020.11] I have been awarded the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
