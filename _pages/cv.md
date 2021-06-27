@@ -42,7 +42,7 @@ redirect_from:
 * Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
   * Awarded to top 100 freshmen in Korea
 
-## Academic Services
+## Services
 * Technical Program Committee
   *	ACM Wireless of the Students, by the Students, and for the Students Workshop 2021
 
