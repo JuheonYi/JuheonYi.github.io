@@ -13,7 +13,7 @@ redirect_from:
 * <span style="color:crimson">**[IEEE TMC 2020]**</span> Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [pdf] (to appear)\
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
-## Conferences
+## Conference
 * **[ACM MobiCom 2020]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
     **Juheon Yi** and Youngki Lee\
     (acceptance rate: 39/218 = 17.8%, winter round)
@@ -34,14 +34,14 @@ redirect_from:
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi\
     (acceptance rate: 191/675 = 28.3%)
 
-## Journals
+## Journal
 * **[IEEE TMC 2020]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
     **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
 
 * **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
-## Workshops
+## Workshop
 * **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [[pdf](https://juheonyi.github.io/files/sms21.pdf)]\
     **Juheon Yi**
   
