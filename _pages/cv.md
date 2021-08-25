@@ -33,12 +33,12 @@ redirect_from:
 
 ## Honors & Awards
 
+* AI Star Fellowship 2021, AI Institute of Seoul National University (AIIS)
 * Best Paper Award, ACM Students in MobiSys Workshop 2021
 * Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
   * $18K funding for research on "Low-Power Mobile Deep Learning System for Multi-Modal Immersive Media Applications"
 * Microsoft Research Asia Ph.D. Fellowship 2020
   * Awarded to top 12 Ph.D. students in the Asia-Pacific region
-* Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
 * Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
   * Awarded to top 100 freshmen in Korea
 
