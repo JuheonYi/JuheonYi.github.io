@@ -42,6 +42,8 @@ redirect_from:
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
 ## Workshop
+* **[AIChallengeI0T 2021]** Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration [pdf]\
+    **Juheon Yi**, Chulhong Min, and Fahim Kawsar
 * **[Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [[pdf](https://juheonyi.github.io/files/sms21.pdf)]\
     **Juheon Yi**
   
