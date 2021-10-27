@@ -44,7 +44,7 @@ redirect_from:
 
 ## Services
 * Technical Program Committee
-  * EuroSys 2022 Shadow PC
+  * EuroSys 2022 (Shadow PC)
   *	ACM Wireless of the Students, by the Students, and for the Students Workshop 2021
 
 * Reviewer
