@@ -18,7 +18,7 @@ redirect_from:
     **Juheon Yi** and Youngki Lee\
     (acceptance rate: 39/218 = 17.8%, winter round)
   
-* **[ACM MobiCom 2020]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos [[pdf](https://juheonyi.github.io/files/GROOT.pdf)][slides][[video](https://www.youtube.com/watch?v=99r-vb4Pq6k&t=0s)]\
+* **[ACM MobiCom 2020]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos [[pdf](https://juheonyi.github.io/files/GROOT.pdf)][[video](https://www.youtube.com/watch?v=99r-vb4Pq6k&t=0s)]\
     Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim\
     (acceptance rate: 39/218 = 17.8%, winter round)
   
