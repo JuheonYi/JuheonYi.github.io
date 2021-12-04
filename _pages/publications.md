@@ -14,6 +14,9 @@ redirect_from:
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
 ## Conference
+* **[IEEEE INFOCOM 2022]** FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics [pdf]
+    Kichang Yang, **Juheon Yi**, Kyungjin Lee, and Youngki Lee\
+    (acceptance rate: 225/1129 = 19.9%) 
 * **[ACM MobiCom 2020]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
     **Juheon Yi** and Youngki Lee\
     (acceptance rate: 39/218 = 17.8%, winter round)
