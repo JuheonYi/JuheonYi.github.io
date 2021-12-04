@@ -15,7 +15,8 @@ Prior to my Ph.D. course, I worked at two research institutes in Seoul National 
 
 ## News
 
-* [2021.10]<sup><span style="color:red">New</span></sup> I am serving as the EuroSys 2022 Shadow PC.
+* [2021.12]<sup><span style="color:red">New</span></sup> One paper has been accepted to IEEE INFOCOM 2022.
+* [2021.10] I am serving as the EuroSys 2022 Shadow PC.
 * [2021.09] I am starting my research internship at Nokia Bell Labs, Cambridge, UK.
 * [2021.08] I have been awarded the AI Star Fellowship from the AI Institute of Seoul National University.
 * [2021.06] My research vision paper won the best paper award in [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
