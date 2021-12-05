@@ -11,7 +11,7 @@ redirect_from:
 ## Research Interests
 
 * Mixed Reality (MR)
-* Mobile/embedded deep learning systems
+* Mobile/edge AI systems
 * Mobile computing
 
 ## Education
