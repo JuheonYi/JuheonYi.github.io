@@ -24,6 +24,8 @@ redirect_from:
 * B.S., Electrical and Computer Engineering, Seoul National University, Mar. 2012 ~ Aug. 2016.
 
 ## Experience
+* Nokia Bell Labs, Cambridge, United Kingdom, Sep. 2021 ~ Nov. 2021
+  * Ph.D. research intern
 
 * Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
   * Researcher, as part of the alternative military service
