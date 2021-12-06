@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. student advised by [Youngki Lee](http://youngkilee.blogspot.com/) at the Department of Computer Science and Engineering, Seoul National University, Korea. My research interests lie in Mixed Reality (MR) and mobile/edge AI systems. Specifically, my research goal is to design futuristic MR apps, comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
-Prior to my Ph.D. course, I worked at two research institutes in Seoul National University for my military service. I received my B.S. and M.S. degree from the department of Electrical and Computer Engineering in Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home), now at Samsung Research, Korea). 
+Prior to my Ph.D. course, I worked at two research institutes in Seoul National University for my military service. I received my B.S. and M.S. degree from the Department of Electrical and Computer Engineering, Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home), now at Samsung Research, Korea). 
 
 ## News
 
