@@ -15,7 +15,8 @@ Prior to my Ph.D. course, I worked at two research institutes in Seoul National 
 
 ## News
 
-* [2021.12]<sup><span style="color:red">New</span></sup> One paper has been accepted to IEEE INFOCOM 2022.
+* [2022.02]<sup><span style="color:red">New</span></sup> I have been awarded the SNU BK21 Best Graduate Student Award 2021.
+* [2021.12] One paper has been accepted to IEEE INFOCOM 2022.
 * [2021.10] I am serving as the EuroSys 2022 Shadow PC.
 * [2021.09] I am starting my research internship at Nokia Bell Labs, Cambridge, United Kingdom.
 * [2021.08] I have been awarded the [AI Star Fellowship 2021](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub4_3&sca=2021) from the AI Institute of Seoul National University.
