@@ -38,7 +38,7 @@ redirect_from:
     (acceptance rate: 191/675 = 28.3%)
 
 ## Journal
-* **[IEEE TMC 2020]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
+* **[IEEE TMC 2022]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
     **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
 
 * **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
