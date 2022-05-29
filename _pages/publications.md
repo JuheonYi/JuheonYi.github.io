@@ -45,6 +45,8 @@ redirect_from:
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
 ## Workshop
+* **[ACM MobiSys 22]** Poster: LIVE – Life-Immersive Virtual Environment with Physical Interaction-aware Adaptive Blending
+   HyunA Seo, **Juheon Yi**, and Youngki Lee
 * **[ACM AIChallengeIoT 2021 (collocated with ACM SenSys 2021)]** Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration [[pdf](https://juheonyi.github.io/files/aichallengeiot21.pdf)]\
     **Juheon Yi**, Chulhong Min, and Fahim Kawsar
 * **[ACM Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [[pdf](https://juheonyi.github.io/files/sms21.pdf)]\
