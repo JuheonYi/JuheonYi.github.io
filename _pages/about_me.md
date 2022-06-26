@@ -43,9 +43,8 @@ redirect_from:
 * AI Star Fellowship 2021, AI Institute of Seoul National University ($7,000)
   * Awarded to top 11 Ph.D. students in SNU
 * Presidential Science Scholarship, 2012-2016, Korea Student Aid Foundation ($40,000)
-  * Granted to only 100 out of the entire nation’s natural science and engineering freshmen in 2012 
-  * Full scholarship for undergraduate studies
-
+  * Awarded to top 100 freshmen in Korea
+  
 ## Academic Services
 * Technical Program Committee	
   * EuroSys 2022 (Shadow PC), ACM SenSys 2022 (Shadow PC)
