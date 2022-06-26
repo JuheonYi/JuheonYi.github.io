@@ -17,7 +17,7 @@ Prior to my Ph.D. course, I worked at two research institutes in Seoul National 
 
 * [2022.06]<sup><span style="color:red">New</span></sup> I am serving as the ACM SenSys 2022 Shadow PC.
 * [2022.06]<sup><span style="color:red">New</span></sup> I have been awarded the SNU BK21 Best Graduate Student Award 2022.
-* [2022.05] One paper has been published on IEEE Transactions on Mobile Computing.
+* [2022.05] One paper has been published on the IEEE Transactions on Mobile Computing.
 * [2022.02] I have been awarded the SNU Dept. of CSE Star Researcher Award 2021.
 * [2021.12] One paper has been accepted to IEEE INFOCOM 2022.
 * [2021.11] One paper has been accepted to ACM AIChallengeIoT 2021.
