@@ -9,10 +9,10 @@ redirect_from:
 
 ## Research Interests
 
-* Augmented Reality (AR)
-* Mobile/embedded deep learning systems
-* Mobile computing
-* Wireless networking
+* Video Analytics
+* Edge AI Systems
+* Mixed Reality (MR)
+* Mobile Computing
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
@@ -33,15 +33,24 @@ redirect_from:
 
 ## Honors & Awards
 
-* Microsoft Research Asia Ph.D. Fellowship 2020
-  * Granted to only 12 Ph.D. students in the Asia-Pacific region
-* Honorable mention, AI Star Fellowship 2020, AI Institute of Seoul National University (AIIS)
-* Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), 2012
+* BK21 Best Graduate Student Award 2022, Seoul National University
+* Star Researcher Award 2021, Dept. of CSE, Seoul National University
+  * Awarded to top 9 Ph.D. students in the Dept. of CSE
+* Microsoft Research Asia Ph.D. Fellowship 2020 ($10,000)
+  * Awarded to top 12 Ph.D. students in the Asia-Pacific region
+* Best Paper Award, ACM Students in MobiSys 2021
+* Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea ($18,000)
+* AI Star Fellowship 2021, AI Institute of Seoul National University ($7,000)
+  * Awarded to top 11 Ph.D. students in SNU
+* Presidential Science Scholarship, 2012-2016, Korea Student Aid Foundation ($40,000)
   * Granted to only 100 out of the entire nation’s natural science and engineering freshmen in 2012 
   * Full scholarship for undergraduate studies
 
 ## Academic Services
+* Technical Program Committee	
+  * EuroSys 2022 (Shadow PC), ACM SenSys 2022 (Shadow PC)
+  * ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop 2021 (collocated with ACM MobiCom 2021)
 
 * Reviewer
-  * Journal: IEEE Transactions on Mobile Computing
+  * Journal: IEEE Transactions on Mobile Computing (TMC), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
   * Conference: IEEE DySPAN 2018, IEEE WCNC 2019, IEEE WCNC 2020
