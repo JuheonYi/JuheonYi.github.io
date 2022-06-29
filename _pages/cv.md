@@ -35,7 +35,7 @@ redirect_from:
 
 ## Honors & Awards
 
-* BK 21 Best Graduate Student Award 2021, Seoul National University
+* BK 21 Best Graduate Student Award 2022, Seoul National University
 * AI Star Fellowship 2021, AI Institute of Seoul National University
 * Best Paper Award, ACM Students in MobiSys Workshop 2021
 * Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
