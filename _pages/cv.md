@@ -36,6 +36,7 @@ redirect_from:
 ## Honors & Awards
 
 * BK 21 Best Graduate Student Award 2022, Seoul National University
+* Star Researcher Award 2021, Dept. of CSE, Seoul National University
 * AI Star Fellowship 2021, AI Institute of Seoul National University
 * Best Paper Award, ACM Students in MobiSys Workshop 2021
 * Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
@@ -47,8 +48,7 @@ redirect_from:
 
 ## Services
 * Technical Program Committee
-  * EuroSys 2022 (Shadow PC)
-  *	ACM Wireless of the Students, by the Students, and for the Students Workshop 2021
+  * ACM SenSys 2022 (Shadow PC), EuroSys 2022 (Shadow PC), ACM Wireless of the Students, by the Students, and for the Students Workshop 2021
 
 * Reviewer
   * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
