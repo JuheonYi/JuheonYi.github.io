@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jun. 2022)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Nov. 2022)
 
 I am a Ph.D. student advised by [Youngki Lee](http://youngkilee.blogspot.com/) at the Department of Computer Science and Engineering, Seoul National University, Korea. My research interests lie in Mixed Reality (MR) and mobile/edge AI systems. Specifically, my research goal is to design futuristic MR apps, comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
@@ -15,7 +15,7 @@ Prior to my Ph.D. course, I worked at two research institutes in Seoul National 
 
 ## News
 
-* [2022.06]<sup><span style="color:red">New</span></sup> One paper has been conditionally accepted to ACM MobiCom 2023.
+* [2022.11]<sup><span style="color:red">New</span></sup> One paper has been conditionally accepted to ACM MobiCom 2023.
 * [2022.06] I am serving as the ACM SenSys 2022 Shadow PC.
 * [2022.06] I have been awarded the SNU BK21 Best Graduate Student Award 2022.
 * [2022.05] One paper has been published on the IEEE Transactions on Mobile Computing.
