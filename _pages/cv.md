@@ -12,7 +12,7 @@ redirect_from:
 
 * Mixed Reality (MR)
 * Mobile/edge AI systems
-* Mobile computing
+* Video analytics
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
@@ -54,4 +54,4 @@ redirect_from:
 
 * Reviewer
   * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  * Conference: IEEE WCNC 2020, 2019, IEEE DySPAN 2018
+  * Conference: IEEE VR 2023, HAI 2022, IEEE WCNC 2020, 2019, IEEE DySPAN 2018
