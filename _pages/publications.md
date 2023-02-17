@@ -14,6 +14,8 @@ redirect_from:
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
 ## Conference
+* **[IEEE ICASSP 2023]** Papez: Resource-efficient Speech Separation with Auditory Working Memory [[pdf](https://juheonyi.github.io/files/Papez.pdf)]\
+    Hyunseok Oh, **Juheon Yi**, and Youngki Lee\
 * **[IEEE INFOCOM 2022]** FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics [[pdf](https://juheonyi.github.io/files/FlexPatch.pdf)]\
     Kichang Yang, **Juheon Yi**, Kyungjin Lee, and Youngki Lee\
     (acceptance rate: 225/1129 = 19.9%) 
