@@ -17,7 +17,7 @@ redirect_from:
 * **[IEEE ICASSP 2023]** Papez: Resource-efficient Speech Separation with Auditory Working Memory [[pdf](https://juheonyi.github.io/files/Papez.pdf)]\
     Hyunseok Oh, **Juheon Yi**, and Youngki Lee
     
-* **[ACM MobiCom 2023]** FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [[pdf](https://juheonyi.github.io/files/FarFetch.pdf)]
+* **[ACM MobiCom 2023]** FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [[pdf](https://juheonyi.github.io/files/FarFetch.pdf)]\
     Kyungjin Lee, **Juheon Yi** and Youngki Lee\
     (acceptance rate: 40/132 = 30.3%, summer round)
     
