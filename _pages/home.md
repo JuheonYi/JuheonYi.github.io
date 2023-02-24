@@ -16,7 +16,7 @@ Prior to my Ph.D. course, I worked at two research institutes in Seoul National 
 ## News
 
 * [2023.02]<sup><span style="color:red">New</span></sup> One paper has been accepted to IEEE ICASSP 2023.
-* [2022.11]<sup><span style="color:red">New</span></sup> One paper has been conditionally accepted to ACM MobiCom 2023.
+* [2022.11] One paper has been accepted to ACM MobiCom 2023.
 * [2022.06] I am serving as the ACM SenSys 2022 Shadow PC.
 * [2022.06] I have been awarded the SNU BK21 Best Graduate Student Award 2022.
 * [2022.05] One paper has been published on the IEEE Transactions on Mobile Computing.
