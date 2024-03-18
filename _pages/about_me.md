@@ -1,4 +1,3 @@
-![image](https://github.com/JuheonYi/JuheonYi.github.io/assets/37010863/debaf441-9ec2-437c-8135-3fb8d08816a1)---
 permalink: /about_me/
 layout: archive
 title: "About me"
