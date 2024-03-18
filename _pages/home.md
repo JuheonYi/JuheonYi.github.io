@@ -7,15 +7,17 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2024)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Mar. 2024)
 
-I am a Ph.D. student advised by [Youngki Lee](http://youngkilee.blogspot.com/) at the Department of Computer Science and Engineering, Seoul National University, Korea. My research interests lie in Mixed Reality (MR) and mobile/edge AI systems. Specifically, my research goal is to design futuristic MR apps, comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
+I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. My research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
-Prior to my Ph.D. course, I worked at two research institutes in Seoul National University for my military service. I received my B.S. and M.S. degree from the Department of Electrical and Computer Engineering, Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home), now at Samsung Research, Korea). 
+I received Ph.D from the Department of Computer Science and Engineering, Seoul National University, Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). Prior to my that, I received my B.S. and M.S. from the Department of Electrical and Computer Engineering, Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home), now at Samsung Research, Korea). 
 
 ## News
 
-* [2023.02]<sup><span style="color:red">New</span></sup> One paper has been accepted to IEEE ICASSP 2023.
+* [2024.02]<sup><span style="color:red">New</span></sup> Won Best Dissertation Award and Sang Lyul Min Systems Research Fellowship!
+* [2023.10] Awarded best paper runner-up in ACM ImmerCom 2023!
+* [2023.02] One paper has been accepted to IEEE ICASSP 2023.
 * [2022.11] One paper has been accepted to ACM MobiCom 2023.
 * [2022.06] I am serving as the ACM SenSys 2022 Shadow PC.
 * [2022.06] I have been awarded the SNU BK21 Best Graduate Student Award 2022.
