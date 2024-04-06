@@ -35,23 +35,40 @@ redirect_from:
 
 ## Honors & Awards
 
-* BK 21 Best Graduate Student Award 2022, Seoul National University
-* Star Researcher Award 2021, Dept. of CSE, Seoul National University
-* AI Star Fellowship 2021, AI Institute of Seoul National University
-* Best Paper Award, ACM Students in MobiSys Workshop 2021
-* Ph.D. Research Encouragement Funding 2021, National Research Foundation of Korea
-  * $18K funding for research on "Low-Power Mobile Deep Learning System for Multi-Modal Immersive Media Applications"
-* Microsoft Research Asia Ph.D. Fellowship 2020
-  * Awarded to top 12 Ph.D. students in the Asia-Pacific region
-* Presidential Science Scholarship, Korea Student Aid Foundation, 2012
+*	Best Ph.D. Thesis Award, Dept. of CSE, SNU, 2024
+  
+*	Sang Lyul Min Systems Research Fellowship, Dept. of CSE, SNU, 2024
+  
+*	Best Paper Award Runner-up, ACM ImmerCom 2023
+  
+*	Best Graduate Student Award, BK21 SNU, 2022
+  
+*	AI Star Fellowship, AI Institute of SNU, 2021
+  
+*	Star Researcher Award, Dept. of CSE, SNU, 2021
+  
+*	Best Paper Award, ACM Students in MobiSys, 2021
+  
+*	Global Ph.D. Fellowship 2021, National Research Foundation of Korea, 2021
+  
+*	Microsoft Research Asia Ph.D. Fellowship 2020
+	* Awarded to top 12 Ph.D. students in the Asia-Pacific region
+   
+*	Presidential Science Scholarship, Korea Student Aid Foundation, 2012-2016 
   * Awarded to top 100 freshmen in Korea
 
 ## Services
-* Technical Program Committee
-  * ACM SenSys 2022 (Shadow PC)
-  * EuroSys 2022 (Shadow PC)
-  * ACM Wireless of the Students, by the Students, and for the Students ($S^3$) Workshop 2021
 
-* Reviewer
-  * Journal: IEEE Transactions on Mobile Computing (TMC), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  * Conference: IEEE VR 2023, HAI 2022, IEEE WCNC 2020, 2019, IEEE DySPAN 2018
+Technical Program Committee	
+
+*	EuroSys 2022 (Shadow PC), ACM SenSys 2022 (Shadow PC)
+  *	ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop 2021 (collocated with ACM MobiCom 2021)
+  *	ACM MobiSys 2023 (Artifact Evaluation Committee)
+
+External Reviewer	
+  *	Journal: IEEE TMC, IEEE Systems Journal, ACM IMWUT
+  *	Conference: IEEE VR 2024, ACM CSCW 2024, CogSci 2024, ISMAR 2023, IEEE VR 2023, HAI 2022, IEEE WCNC 2020, 2019, IEEE DySPAN 2018
+
+Other Organizing Committee	
+*	IEEE/ACM COMSNETS 2025 (publicity co-chair)
+
