@@ -29,7 +29,7 @@ I received Ph.D from the Department of Computer Science and Engineering, Seoul N
 * [2021.09] I am starting my research internship at Nokia Bell Labs, Cambridge, United Kingdom.
 * [2021.08] I have been awarded the [AI Star Fellowship 2021](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub4_3&sca=2021) from the AI Institute of Seoul National University.
 * [2021.06] My research vision paper won the best paper award in the [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
-* [2021.05] I have been awarded the $18K Ph.D. Research Encouragement Funding 2021 from National Research Foundation of Korea.
+* [2021.05] I have been awarded the Global PhD Fellowship 2021 from National Research Foundation of Korea.
 * [2020.11] I have been awarded the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 * [2020.06] Two papers have been accepted to ACM MobiCom 2020 winter round.
 * [2019.10] One paper has been accepted to ACM MobiCom 2020 summer round.
