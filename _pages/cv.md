@@ -49,7 +49,7 @@ redirect_from:
   
 *	Best Paper Award, ACM Students in MobiSys, 2021
   
-*	Global Ph.D. Fellowship 2021, National Research Foundation of Korea, 2021
+*	Global Ph.D. Fellowship, National Research Foundation of Korea, 2021
   
 *	Microsoft Research Asia Ph.D. Fellowship 2020
 	* Awarded to top 12 Ph.D. students in the Asia-Pacific region
