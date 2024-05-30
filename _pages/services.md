@@ -1,6 +1,7 @@
 ---
 permalink: /services/
 layout: archive
+title: " "
 author_profile: true
 redirect_from: 
   - /services
