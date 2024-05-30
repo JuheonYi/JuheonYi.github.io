@@ -10,12 +10,13 @@ redirect_from:
 
 ## Research Interests
 
+* Video Analytics
+* Edge AI Systems
 * Mixed Reality (MR)
-* Mobile/edge AI systems
-* Video analytics
 
 ## Education
-* Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~
+
+* Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~ Feb 2024.
   * Advisor: [Youngki Lee](http://youngkilee.blogspot.com/) 
 
 * M.S., Electrical and Computer Engineering, Seoul National University, Sep. 2016 ~ Aug. 2018.
@@ -25,17 +26,16 @@ redirect_from:
 
 ## Experience
 
-* Nokia Bell Labs, Cambridge, United Kingdom, Dec. 2023 ~ Present
-  * Research scientist
+* Research Scientist, Nokia Bell Labs, Cambridge, United Kingdom, Dec. 2023 ~ 
 
-* Nokia Bell Labs, Cambridge, United Kingdom, Sep. 2021 ~ Nov. 2021
-  * Ph.D. research intern
+* Research intern, Nokia Bell Labs, Cambridge, United Kingdom, Sep. 2021 ~ Nov. 2021
+  * Mentor: [Chulhong Min](http://chulhongmin.com/)
 
-* Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
-  * Researcher, as part of the alternative military service
+* Researcher, Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
+  * As part of the alternative military service in Korea
 
-* Institute of New Media and Communications, Seoul National University, Nov. 2018 ~ May. 2020
-  * Researcher, as part of the alternative military service
+* Researcher, Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
+  * As part of the alternative military service in Korea
 
 ## Honors & Awards
 
