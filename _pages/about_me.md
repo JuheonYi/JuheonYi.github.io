@@ -12,7 +12,6 @@ redirect_from:
 * Video Analytics
 * Edge AI Systems
 * Mixed Reality (MR)
-* Mobile Computing
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~ Feb 2024.
@@ -50,17 +49,4 @@ redirect_from:
   * Awarded to top 11 Ph.D. students in SNU
 * Presidential Science Scholarship, 2012-2016, Korea Student Aid Foundation ($40,000)
   * Awarded to top 100 freshmen in Korea
-  
-## Academic Services
-* Technical Program Committee
-  * EuroSys 2022 (Shadow PC), ACM SenSys 2022 (Shadow PC)
-  * ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop 2021 (collocated with ACM MobiCom 2021)
-  * ACM MobiSys 2023 (Artifact Evaluation Committee)
-
-*External Reviewer	
-  * Journal: IEEE TMC, IEEE Systems Journal, ACM IMWUT
-  * Conference: IEEE VR 2024, ACM CSCW 2024, CogSci 2024, ISMAR 2023, IEEE VR 2023, HAI 2022, IEEE WCNC 2020, 2019, IEEE DySPAN 2018
-
-* Others Organizing Committee	
-  * IEEE/ACM COMSNETS 2025 (publicity co-chair)
 
