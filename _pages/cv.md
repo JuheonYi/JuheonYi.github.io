@@ -8,13 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Interests
+### Research Interests
 
 * Video Analytics
 * Edge AI Systems
 * Mixed Reality (MR)
 
-## Education
+### Education
 
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~ Feb 2024.
   * Advisor: [Youngki Lee](http://youngkilee.blogspot.com/) 
@@ -24,7 +24,7 @@ redirect_from:
 
 * B.S., Electrical and Computer Engineering, Seoul National University, Mar. 2012 ~ Aug. 2016.
 
-## Experience
+### Experience
 
 * Research Scientist, Nokia Bell Labs, Cambridge, United Kingdom, Dec. 2023 ~ 
 
@@ -37,7 +37,7 @@ redirect_from:
 * Researcher, Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
   * As part of the alternative military service in Korea
 
-## Honors & Awards
+### Honors & Awards
 
 *	Best Ph.D. Thesis Award, Dept. of CSE, SNU, 2024
   
