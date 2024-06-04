@@ -14,7 +14,7 @@ redirect_from:
 * <span style="color:crimson">**[IEEE TMC 2020]**</span> Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [pdf] (to appear)\
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
-## Full Papers
+### Full Papers
 * **[IEEE ICASSP 2023]** Papez: Resource-efficient Speech Separation with Auditory Working Memory [[pdf](https://juheonyi.github.io/files/Papez.pdf)]\
     Hyunseok Oh, **Juheon Yi**, and Youngki Lee
     
@@ -52,7 +52,7 @@ redirect_from:
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi\
     (acceptance rate: 191/675 = 28.3%)
 
-## Workshop, Poster, Demo
+### Workshop, Poster, Demo
 * **[ACM MobiSys 2022]** Poster: LIVE – Life-Immersive Virtual Environment with Physical Interaction-aware Adaptive Blending\
    HyunA Seo, **Juheon Yi**, and Youngki Lee
 * **[ACM AIChallengeIoT 2021 (collocated with ACM SenSys 2021)]** Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration [[pdf](https://juheonyi.github.io/files/aichallengeiot21.pdf)]\
