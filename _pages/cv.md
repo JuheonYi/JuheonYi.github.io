@@ -34,7 +34,7 @@ redirect_from:
 * Researcher, Institute of Computer Technology, Seoul National University, Jun. 2020 ~ Aug. 2020
   * As part of the alternative military service in Korea
 
-* Researcher, Institute of New Media and Communications (INMC), Seoul National University, Nov. 2018 ~ May. 2020
+* Researcher, Institute of New Media and Communications, Seoul National University, Nov. 2018 ~ May. 2020
   * As part of the alternative military service in Korea
 
 ### Honors & Awards
@@ -59,4 +59,4 @@ redirect_from:
 	* Awarded to top 12 Ph.D. students in the Asia-Pacific region
    
 *	Presidential Science Scholarship, Korea Student Aid Foundation, 2012-2016 
-  * Awarded to top 100 freshmen in Korea
+  	* Awarded to top 100 freshmen in Korea
