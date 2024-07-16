@@ -9,7 +9,7 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Mar. 2024)
 
-I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
+I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
 I received Ph.D from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). Prior to that, I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
@@ -30,6 +30,6 @@ I received Ph.D from the Dept. of CSE, Seoul National University (SNU), Korea, a
 * [2021.08] I have been awarded the [AI Star Fellowship 2021](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub4_3&sca=2021) from the AI Institute of Seoul National University.
 * [2021.06] My research vision paper won the best paper award in the [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
 * [2021.05] I have been awarded the Global PhD Fellowship 2021 from National Research Foundation of Korea.
-* [2020.11] I have been awarded the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
+* [2020.11] I have been awarded the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 * [2020.06] Two papers have been accepted to ACM MobiCom 2020 winter round.
 * [2019.10] One paper has been accepted to ACM MobiCom 2020 summer round.
