@@ -11,7 +11,7 @@ redirect_from:
 
 I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Asia Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
-I received Ph.D from the Dept. of CSE, Seoul National University, Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). Prior to that, I received my B.S. and M.S. from the Department of Electrical and Computer Engineering, Seoul National University in 2016 and 2018 (advisor: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)). 
+I received Ph.D from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). Prior to that, I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
 ## News
 
