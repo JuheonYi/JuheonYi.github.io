@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Mar. 2024)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jul. 2024)
 
 I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them. I am a recipient of the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 
@@ -15,7 +15,8 @@ I received Ph.D from the Dept. of CSE, Seoul National University (SNU), Korea, a
 
 ## News
 
-* [2024.02]<sup><span style="color:red">New</span></sup> Finished my PhD with Best Dissertation Award and Sang Lyul Min Systems Research Fellowship from the Dept. of CSE, SNU!
+* [2024.06]<sup><span style="color:red">New</span></sup> Two papers conditionally accepted to ACM MobiCom 2024 and ACM UIST 2024.
+* [2024.02] Finished my PhD with Best Dissertation Award and Sang Lyul Min Systems Research Fellowship from the Dept. of CSE, SNU!
 * [2023.10] Awarded best paper runner-up in ACM ImmerCom 2023!
 * [2023.02] One paper has been accepted to IEEE ICASSP 2023.
 * [2022.11] One paper has been accepted to ACM MobiCom 2023.
