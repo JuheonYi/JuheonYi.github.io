@@ -15,7 +15,7 @@ I received Ph.D from the Dept. of CSE, Seoul National University (SNU), Korea, a
 
 ## News
 
-* [2024.06]<sup><span style="color:red">New</span></sup> Two papers conditionally accepted to ACM MobiCom 2024 and ACM UIST 2024.
+* [2024.06]<sup><span style="color:red">New</span></sup> Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
 * [2024.02] Finished my PhD with Best Dissertation Award and Sang Lyul Min Systems Research Fellowship from the Dept. of CSE, SNU!
 * [2023.10] Awarded best paper runner-up in ACM ImmerCom 2023!
 * [2023.02] One paper has been accepted to IEEE ICASSP 2023.
