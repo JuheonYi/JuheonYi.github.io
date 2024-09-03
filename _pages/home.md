@@ -18,7 +18,8 @@ I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineerin
 
 * [2024.09]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE TMC.
 * [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
-* [2024.02] Finished my PhD with Best Dissertation Award and Sang Lyul Min Systems Research Fellowship from the Dept. of CSE, SNU.
+* [2024.02] Finished my PhD with Best Dissertation Award from the Dept. of CSE, SNU.
+* [2024.02] Awarded the Sang Lyul Min Systems Research Fellowship 2024 from the Dept. of CSE, SNU.
 * [2023.10] Awarded the best paper runner-up in ACM ImmerCom 2023.
 * [2023.02] Paper accepted to IEEE ICASSP 2023.
 * [2022.11] Paper accepted to ACM MobiCom 2023.
@@ -28,9 +29,8 @@ I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineerin
 * [2022.02] Awarded the SNU Dept. of CSE Star Researcher Award 2021.
 * [2021.12] Paper accepted to IEEE INFOCOM 2022.
 * [2021.10] Serving as the EuroSys 2022 Shadow PC.
-* [2021.09] Starting my research internship at Nokia Bell Labs, Cambridge, United Kingdom.
 * [2021.08] Awarded the [AI Star Fellowship 2021](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub4_3&sca=2021) from the AI Institute of SNU.
-* [2021.06] Won the best paper award in [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
+* [2021.06] Awarded the best paper award in [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
 * [2021.05] Awarded the Global PhD Fellowship 2021 from National Research Foundation of Korea.
 * [2020.11] Aarded the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 * [2020.06] Two papers accepted to ACM MobiCom 2020 winter round.
