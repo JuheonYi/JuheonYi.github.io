@@ -32,6 +32,6 @@ I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineerin
 * [2021.08] Awarded the [AI Star Fellowship 2021](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub4_3&sca=2021) from the AI Institute of SNU.
 * [2021.06] Awarded the best paper award in [ACM Students in MobiSys Workshop 2021](http://www.people.vcu.edu/~barahoueipash/SMS/SMS.html).
 * [2021.05] Awarded the Global PhD Fellowship 2021 from National Research Foundation of Korea.
-* [2020.11] Aarded the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
+* [2020.11] Awarded the [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 * [2020.06] Two papers accepted to ACM MobiCom 2020 winter round.
 * [2019.10] Paper accepted to ACM MobiCom 2020 summer round.
