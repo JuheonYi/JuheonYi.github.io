@@ -18,7 +18,7 @@ I received my B.S. and M.S. from the Dept. of Electrical and Computer Engineerin
 
 * [2024.09]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE TMC.
 * [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
-* [2024.02] Finished my PhD with Best Dissertation Award from Dept. of CSE, SNU.
+* [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
 * [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
 * [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist.
 * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023.
