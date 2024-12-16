@@ -17,7 +17,3 @@ redirect_from:
 ### External Reviewer	
   * Journal: IEEE TMC, IEEE Systems Journal, ACM IMWUT
   * Conference: VRST 2024, BMVC 2024, ACM UIST 2024, IEEE VR 2024, ACM CSCW 2024, CogSci 2024, ISMAR 2023, IEEE VR 2023, HAI 2022, IEEE WCNC 2020, 2019, IEEE DySPAN 2018
-
-### Others
-  * IEEE/ACM COMSNETS 2025 (publicity co-chair)
-
