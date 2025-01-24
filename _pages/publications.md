@@ -14,9 +14,18 @@ redirect_from:
 * <span style="color:crimson">**[IEEE TMC 2020]**</span> Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [pdf] (to appear)\
     **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
 -->
-### Full Papers
+### Full Papers (*: co-primary)
 
-* **[IEEE TMC 2024]** Argus: Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras [[pdf](https://juheonyi.github.io/files/argus.pdf)]\
+* **[IEEE INFOCOM 2025]** Efficient Combinational Sampling Method for Scalable LiDAR-Based 3D Object Detection\
+  Jinmyeong Kim*, **Juheon Yi***, Wootack Kim, Seokgyeong Shin, Youngki Lee
+
+* **[ACM HotMobile 2025]** Boosting Multi-DNN Inference on Tiny AI Accelerators with Weight Memory Virtualization\
+Changmin Jeon, Taesik Gong, **Juheon Yi**, Fahim Kawsar, and Chulhong Min
+
+* **[NDSS 2025]** DLBox: New Model Training Framework for Protecting Training Data\
+Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung Lee
+
+* **[IEEE TMC 2024]** Argus: Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras\
   **Juheon Yi**, Utku Acer, Fahim Kawsar, and Chulhong Min
 
 * **[ACM MobiCom 2024]** Logan: Loss-Tolerant Live Video Analytics System [[pdf](https://juheonyi.github.io/files/logan.pdf)]\
