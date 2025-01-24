@@ -9,14 +9,15 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Aug. 2024)
 
-I am a research scientist at Nokia Bell Labs, Cambridge, UK. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them.
+I am a senior researcher at Microsoft Research Asia. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them.
 
-I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
+Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
 ## News
 
-* [2024.09]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE TMC.
+* [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE INFOCOM.
+* [2024.09] Paper accepted to IEEE TMC.
 * [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
 * [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
 * [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
