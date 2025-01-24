@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Aug. 2024)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
 
 I am a senior researcher at Microsoft Research Asia. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them.
 
