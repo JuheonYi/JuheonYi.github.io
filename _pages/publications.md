@@ -17,7 +17,7 @@ redirect_from:
 ### Full Papers (*: co-primary)
 
 * **[IEEE INFOCOM 2025]** Efficient Combinational Sampling Method for Scalable LiDAR-Based 3D Object Detection\
-  Jinmyeong Kim*, **Juheon Yi** *, Wootack Kim, Seokgyeong Shin, Youngki Lee
+  Jinmyeong Kim\*, **Juheon Yi**\*, Wootack Kim, Seokgyeong Shin, Youngki Lee
 
 * **[ACM HotMobile 2025]** Boosting Multi-DNN Inference on Tiny AI Accelerators with Weight Memory Virtualization\
 Changmin Jeon, Taesik Gong, **Juheon Yi**, Fahim Kawsar, and Chulhong Min
