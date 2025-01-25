@@ -11,7 +11,7 @@ redirect_from:
 
 I am a senior researcher at Microsoft Research Asia. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them.
 
-Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
+Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
 ## News
