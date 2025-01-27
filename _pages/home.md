@@ -16,7 +16,7 @@ I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU 
 
 ## News
 
-* [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE INFOCOM.
+* [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE INFOCOM 2025.
 * [2024.09] Paper accepted to IEEE TMC.
 * [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
 * [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
