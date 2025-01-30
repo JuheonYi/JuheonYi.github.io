@@ -58,7 +58,7 @@ Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung
 * **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints\
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
-* **[IEEE SECON 2018]** BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio [[slides](https://juheonyi.github.io/files/BlueScan-slides.pptx)]\
+* **[IEEE SECON 2018]** BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio\
     **Juheon Yi**, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi
     
 * **[ACM Multimedia 2017]** REQUEST: Seamless Dynamic Adaptive Streaming over HTTP for Multi-Homed Smartphone under Resource Constraints\
