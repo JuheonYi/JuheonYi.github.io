@@ -28,22 +28,22 @@ Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung
 * **[IEEE TMC 2024]** Argus: Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras\
   **Juheon Yi**, Utku Acer, Fahim Kawsar, and Chulhong Min
 
-* **[ACM MobiCom 2024]** Logan: Loss-Tolerant Live Video Analytics System [[pdf](https://juheonyi.github.io/files/logan.pdf)]\
+* **[ACM MobiCom 2024]** Logan: Loss-Tolerant Live Video Analytics System\
   Kichang Yang, Minkyung Jeong, **Juheon Yi**, Jingyu Lee, Kyungsoo Park, and Youngki Lee
 
-* **[ACM UIST 2024]** GradualReality: Enhancing Physical Object Interaction in Virtual Reality via Interaction State-Aware Blending [[pdf](https://juheonyi.github.io/files/gradualreality.pdf)]\
+* **[ACM UIST 2024]** GradualReality: Enhancing Physical Object Interaction in Virtual Reality via Interaction State-Aware Blending\
   HyunA Seo, **Juheon Yi**, Rajesh Balan, and Youngki Lee
 
-* **[IEEE ICASSP 2023]** Papez: Resource-efficient Speech Separation with Auditory Working Memory [[pdf](https://juheonyi.github.io/files/Papez.pdf)]\
+* **[IEEE ICASSP 2023]** Papez: Resource-efficient Speech Separation with Auditory Working Memory\
     Hyunseok Oh, **Juheon Yi**, and Youngki Lee
     
-* **[ACM MobiCom 2023]** FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform [[pdf](https://juheonyi.github.io/files/FarFetch.pdf)]\
+* **[ACM MobiCom 2023]** FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform\
     Kyungjin Lee, **Juheon Yi** and Youngki Lee
 
-* **[IEEE TMC 2022]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [[pdf](https://juheonyi.github.io/files/Supremo.pdf)]\
+* **[IEEE TMC 2022]** Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices\
     **Juheon Yi**, Seongwon Kim, Joongheon Kim, and Sunghyun Choi
     
-* **[IEEE INFOCOM 2022]** FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics [[pdf](https://juheonyi.github.io/files/FlexPatch.pdf)]\
+* **[IEEE INFOCOM 2022]** FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics\
     Kichang Yang, **Juheon Yi**, Kyungjin Lee, and Youngki Lee
   
 * **[ACM MobiCom 2020]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
@@ -55,20 +55,20 @@ Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung
 * **[ACM MobiCom 2020]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=XSJqI2xbVTo&t=0s)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=0cemvvxiKKI&t=0s)]\
     **Juheon Yi**, Sunghyun Choi, and Youngki Lee
 
-* **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST-journal.pdf)]\
+* **[IEEE TMC 2019]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints\
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
-* **[IEEE SECON 2018]** BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio [[pdf](https://juheonyi.github.io/files/BlueScan.pdf)] [[slides](https://juheonyi.github.io/files/BlueScan-slides.pptx)]\
+* **[IEEE SECON 2018]** BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio [[slides](https://juheonyi.github.io/files/BlueScan-slides.pptx)]\
     **Juheon Yi**, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi
     
-* **[ACM Multimedia 2017]** REQUEST: Seamless Dynamic Adaptive Streaming over HTTP for Multi-Homed Smartphone under Resource Constraints [[pdf](https://juheonyi.github.io/files/REQUEST.pdf)]\
+* **[ACM Multimedia 2017]** REQUEST: Seamless Dynamic Adaptive Streaming over HTTP for Multi-Homed Smartphone under Resource Constraints\
     Jonghoe Koo, **Juheon Yi**, Joongheon Kim, Mohammad A. Hoque, and Sunghyun Choi
 
 ### Workshop, Poster, Demo
 * **[ACM MobiSys 2022]** Poster: LIVE – Life-Immersive Virtual Environment with Physical Interaction-aware Adaptive Blending\
    HyunA Seo, **Juheon Yi**, and Youngki Lee
-* **[ACM AIChallengeIoT 2021 (collocated with ACM SenSys 2021)]** Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration [[pdf](https://juheonyi.github.io/files/aichallengeiot21.pdf)]\
+* **[ACM AIChallengeIoT 2021 (collocated with ACM SenSys 2021)]** Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration\
     **Juheon Yi**, Chulhong Min, and Fahim Kawsar
-* **[ACM Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications [[pdf](https://juheonyi.github.io/files/sms21.pdf)]\
+* **[ACM Students in MobiSys 2021]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications\
     **Juheon Yi**
   
