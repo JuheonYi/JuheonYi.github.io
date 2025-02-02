@@ -9,7 +9,7 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
 
-I am a Senior Researcher at Microsoft Research Asia. My research interests lie in live video analytics and mobile/edge AI systems. Specifically, my research goal is to design futuristic live video analytics apps (e.g., Mixed Reality), comprehensively analyze their workloads, and build core mobile systems to support them.
+I am a Senior Researcher at Microsoft Research Asia. My research interests lie in edge AI systems and video analytics. Specifically, my research goal is to design futuristic video analytics apps (e.g., Mixed Reality), analyze their workloads, and build mobile/edge systems to support them.
 
 Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
@@ -20,10 +20,11 @@ I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU 
 * [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to NDSS 2025.
 * [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to ACM HotMobile 2025.
 * [2024.09] Paper accepted to IEEE TMC.
-* [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
+* [2024.06] Paper accepted to ACM MobiCom 2024.
+* [2024.06] Paper accepted to ACM UIST 2024.
 * [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
 * [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
-* [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist.
+<!-- * [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist. -->
 * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023.
 * [2023.02] Paper accepted to IEEE ICASSP 2023.
 * [2022.11] Paper accepted to ACM MobiCom 2023.
