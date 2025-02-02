@@ -17,6 +17,8 @@ I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU 
 ## News
 
 * [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE INFOCOM 2025.
+* [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to NDSS 2025.
+* [2024.12]<sup><span style="color:red">New</span></sup> Paper accepted to ACM HotMobile 2025.
 * [2024.09] Paper accepted to IEEE TMC.
 * [2024.06] Two papers accepted to ACM MobiCom 2024 and ACM UIST 2024.
 * [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
@@ -25,6 +27,7 @@ I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU 
 * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023.
 * [2023.02] Paper accepted to IEEE ICASSP 2023.
 * [2022.11] Paper accepted to ACM MobiCom 2023.
+  <!--*
 * [2022.06] Awarded Best Graduate Student Award 2022 from BK21 SNU.
 * [2022.05] Paper accepted to IEEE TMC.
 * [2022.02] Awarded Star Researcher Award 2021 from Dept. of CSE, SNU.
@@ -35,6 +38,7 @@ I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU 
 * [2020.11] Awarded [Microsoft Research Ph.D. Fellowship 2020](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 * [2020.06] Two papers accepted to ACM MobiCom 2020 winter round.
 * [2019.10] Paper accepted to ACM MobiCom 2020 summer round.
+-->
 
 <!--* [2022.06] Serving as ACM SenSys 2022 Shadow PC.-->
 <!--* [2021.10] Serving as EuroSys 2022 Shadow PC.-->
