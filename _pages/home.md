@@ -9,10 +9,10 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
 
-I am a Senior Researcher at Microsoft Research Asia. My research interests lie in edge AI systems and video analytics. Specifically, my research goal is to design futuristic video analytics apps (e.g., Mixed Reality), analyze their workloads, and build mobile/edge systems to support them.
+I am a Senior Researcher at Microsoft Research Asia. My research interests lie in edge AI systems and video analytics. Specifically, I design futuristic video analytics apps (e.g., Mixed Reality), analyze their workloads, and build mobile/edge systems to support them.
 
-Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD from the Dept. of CSE, Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
-I received BS and MS from the Dept. of Electrical and Computer Engineering, SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
+Prior to joining Microsoft, I worked as a research scientist at Nokia Bell Labs, Cambridge, UK. I received my PhD in CS from Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD study has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
+I received BS and MS degrees in EE from SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
 ## News
 
