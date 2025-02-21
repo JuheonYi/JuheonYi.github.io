@@ -9,10 +9,10 @@ redirect_from:
 
 ### Technical Program Committee
   * ACM ImmmerCom 2024 (co-located with ACM MobiCom 2024)
+  * ACM MobiSys 2023 (Artifact Evaluation Committee)
   * EuroSys 2022 (Shadow PC)
   * ACM SenSys 2022 (Shadow PC)
   * ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop 2021 (co-located with ACM MobiCom 2021)
-  * ACM MobiSys 2023 (Artifact Evaluation Committee)
 
 ### External Reviewer	
   * 2025: IEEE VR, ACM CHI, IEEE ToN, IEEE TMC, ACM IMWUT
