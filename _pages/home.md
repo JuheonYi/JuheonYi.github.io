@@ -16,7 +16,7 @@ I received BS and MS degrees in EE from SNU in 2016 and 2018, advised by [Sunghy
 
 ## News
 
-* [2025.3]<sup><span style="color:red">New</span></sup> Paper conditionally accepted to ACM MobiSys 2025.
+* [2025.03]<sup><span style="color:red">New</span></sup> Paper conditionally accepted to ACM MobiSys 2025.
 * [2024.12] Paper accepted to IEEE INFOCOM 2025.
 * [2024.12] Paper accepted to NDSS 2025.
 * [2024.12] Paper accepted to ACM HotMobile 2025.
