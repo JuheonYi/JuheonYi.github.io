@@ -19,6 +19,9 @@ redirect_from:
 * **[IEEE INFOCOM 2025]** Combinational Point Sampling for Fast and Accurate On-Device LiDAR 3D Object Detection\
   Jinmyeong Kim\*, **Juheon Yi**\*, Wootack Kim, Seokgyeong Shin, Youngki Lee
 
+* **[IEEE Pervasive Computing 2025]** VoiceSeeker: Energy-Efficient and Accurate Audio-Visual Speaker Separation on Mobile Devices\
+  **Juheon Yi**, Kyungjin Lee, Hyunseok Oh, Youngki Lee
+
 * **[NDSS 2025]** DLBox: New Model Training Framework for Protecting Training Data\
 Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung Lee
 
