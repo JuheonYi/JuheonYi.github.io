@@ -9,10 +9,10 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
 
-I am a Senior Researcher at Microsoft Research Asia. My research interests lie in edge AI systems and video analytics. Specifically, I design futuristic video analytics apps (e.g., Mixed Reality), analyze their workloads, and build mobile/edge and networked systems to support them. Current projects include:
+I am a Senior Researcher at Microsoft Research Asia. My research interests lie in edge AI systems and video analytics. Specifically, I design futuristic video analytics apps, analyze their workloads, and build mobile/edge and networked systems to support them. Current projects include:
 
 * Mixed Reality systems
-* Resource-efficient on-device AI inference systems
+* Resource-efficient on-device AI systems
 * Network-compute co-design for real-time video analytics
 
 Prior to joining Microsoft, I was a research scientist at Nokia Bell Labs, Cambridge, UK. I received my PhD in CS from Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD study has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
