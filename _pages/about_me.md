@@ -11,7 +11,7 @@ redirect_from:
 
 * Video Analytics
 * Edge AI Systems
-* Mixed Reality (MR)
+* Networked Systems
 
 ## Education
 * Ph.D., Computer Science and Engineering, Seoul National University, Sep. 2020 ~ Feb 2024.
