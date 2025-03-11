@@ -13,7 +13,7 @@ I am a Senior Researcher at Microsoft Research Asia. My research interests lie i
 
 * Mixed Reality systems
 * Resource-efficient on-device AI inference systems
-* Network-compute co-design for fast and accurate video analytics
+* Network-compute co-design for real-time video analytics
 
 Prior to joining Microsoft, I was a research scientist at Nokia Bell Labs, Cambridge, UK. I received my PhD in CS from Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). My PhD study has been supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) (awarded to top 12 students in the Asia-Pacific region).
 I received BS and MS degrees in EE from SNU in 2016 and 2018, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
