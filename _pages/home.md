@@ -9,7 +9,7 @@ redirect_from:
 
 [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
 
-I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic video analytics apps, analyze their workloads, and build mobile/edge and networked AI systems to support them. Current projects include:
+I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic video analytics apps, analyzing their workloads, and building mobile/edge and networked AI systems to support them. Current projects include:
 
 * Mixed Reality systems
 * On-device AI systems
