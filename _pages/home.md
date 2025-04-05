@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Jan. 2025)
+[[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: Mar. 2025)
 
 I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic video analytics apps, analyzing their workloads, and building mobile/edge and networked AI systems to support them. Current projects include:
 
@@ -20,7 +20,7 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 
-* [2025.03]<sup><span style="color:red">New</span></sup> Paper conditionally accepted to ACM MobiSys 2025.
+* [2025.03]<sup><span style="color:red">New</span></sup> Paper accepted to ACM MobiSys 2025.
 * [2025.03]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE Pervasive Computing 2025.
 * [2024.12] Paper accepted to IEEE INFOCOM 2025.
 * [2024.12] Paper accepted to NDSS 2025.
