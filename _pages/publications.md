@@ -16,7 +16,7 @@ redirect_from:
 -->
 ### Full Papers (*: co-primary)
 
-* **[ACM MobiSys 25]** ARMA: Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
+* **[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
   **Juheon Yi**, Goodsol Lee, Minkyung Jeong, Seokgyeong Shin, Daehyeok Kim, Youngki Lee
 
 * **[IEEE INFOCOM 25]** Combinational Point Sampling for Fast and Accurate On-Device LiDAR 3D Object Detection\
