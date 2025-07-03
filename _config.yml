@@ -84,7 +84,8 @@ author:
   avatar           : "juheon.jpg"
   bio              : "Senior Researcher at Microsoft Research Asia.\njyi@microsoft.com"
   location         : 
-  employer         :
+  employer         : 
+  microsoft_profile         : "https://www.microsoft.com/en-us/research/people/jyi/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GTjATo4AAAAJ&hl=ko&oi=ao"
   email            : 
