@@ -19,9 +19,9 @@ Prior to joining Microsoft, I was a research scientist at Nokia Bell Labs, Cambr
 I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
 
 ## News
-
-* [2025.03]<sup><span style="color:red">New</span></sup> Paper accepted to ACM MobiSys 2025.
-* [2025.03]<sup><span style="color:red">New</span></sup> Paper accepted to IEEE Pervasive Computing 2025.
+<!-- *  <sup><span style="color:red">New</span></sup>   -->
+* [2025.03] Paper accepted to ACM MobiSys 2025.
+* [2025.03] Paper accepted to IEEE Pervasive Computing 2025.
 * [2024.12] Paper accepted to IEEE INFOCOM 2025.
 * [2024.12] Paper accepted to NDSS 2025.
 * [2024.12] Paper accepted to ACM HotMobile 2025.
