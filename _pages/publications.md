@@ -10,10 +10,6 @@ redirect_from:
 <!--title: "Publications"-->
 <!--https://htmlcolorcodes.com/color-names/-->
 
-<!--
-* <span style="color:crimson">**[IEEE TMC 2020]**</span> Supremo: Cloud-Assisted Low-Latency Super-Resolution in Mobile Devices [pdf] (to appear)\
-    **Juheon Yi**, <span style="color:lightgray">Seongwon Kim, Joongheon Kim, and Sunghyun Choi</span>
--->
 ### Full Papers (*: co-primary)
 
 * **[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
@@ -49,13 +45,13 @@ Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung
 * **[IEEE INFOCOM 22]** FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics\
     Kichang Yang, **Juheon Yi**, Kyungjin Lee, and Youngki Lee
   
-* **[ACM MobiCom 20]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications [[pdf](https://juheonyi.github.io/files/Heimdall.pdf)][[slides (long)](https://juheonyi.github.io/files/Heimdall-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=U4TDFjIhx4M&t=0s)][[slides (short)](https://juheonyi.github.io/files/Heimdall-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=k5QJ32I34zY)]\
+* **[ACM MobiCom 20]** Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications\
     **Juheon Yi** and Youngki Lee
   
-* **[ACM MobiCom 20]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos [[pdf](https://juheonyi.github.io/files/GROOT.pdf)][[video](https://www.youtube.com/watch?v=99r-vb4Pq6k&t=0s)]\
+* **[ACM MobiCom 20]** GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos\
     Kyungjin Lee, **Juheon Yi**, Youngki Lee, Sunghyun Choi, and Young Min Kim
   
-* **[ACM MobiCom 20]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=XSJqI2xbVTo&t=0s)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=0cemvvxiKKI&t=0s)]\
+* **[ACM MobiCom 20]** EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces\
     **Juheon Yi**, Sunghyun Choi, and Youngki Lee
 
 * **[IEEE TMC 19]** Seamless Dynamic Adaptive Streaming in LTE/Wi-Fi Integrated Network under Smartphone Resource Constraints\
@@ -80,3 +76,4 @@ Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung
 * **[ACM Students in MobiSys 21]** Mobile-Cloud Cooperative Deep Learning Platform for Mixed Reality Applications\
     **Juheon Yi**
   
+<!-- [[pdf](https://juheonyi.github.io/files/EagleEye.pdf)][[slides (long)](https://juheonyi.github.io/files/EagleEye-slides-20min.pptx)][[video (long)](https://www.youtube.com/watch?v=XSJqI2xbVTo&t=0s)][[slides (short)](https://juheonyi.github.io/files/EagleEye-slides-5min.pptx)][[video (short)](https://www.youtube.com/watch?v=0cemvvxiKKI&t=0s)]\ -->
