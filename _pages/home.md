@@ -20,7 +20,7 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
-* [2025.07] Paper accepted to USENIX NSDI 2026.
+
 * [2025.03] Paper accepted to ACM MobiSys 2025.
 * [2025.03] Paper accepted to IEEE Pervasive Computing 2025.
 * [2024.12] Paper accepted to IEEE INFOCOM 2025.
