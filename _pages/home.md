@@ -11,7 +11,7 @@ redirect_from:
 
 I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic video analytics apps, analyzing their workloads, and building mobile/edge and networked AI systems to support them. Current projects include:
 
-* Live video analytics system design on MEC and Open-RAN
+* Live video analytics on MEC and Open-RAN
 * Edge AI systems for AR/VR/MR
 * Media AI Agents
 
