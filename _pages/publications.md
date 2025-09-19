@@ -15,7 +15,7 @@ redirect_from:
 * **[USENIX NSDI 26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity\
   Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
 
-* **[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
+* **[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness [[pdf](https://juheonyi.github.io/files/ARMA-MobiSys25.pdf)]\
   **Juheon Yi**, Goodsol Lee, Minkyung Jeong, Seokgyeong Shin, Daehyeok Kim, Youngki Lee
 
 * **[IEEE INFOCOM 25]** Combinational Point Sampling for Fast and Accurate On-Device LiDAR 3D Object Detection\
