@@ -16,7 +16,7 @@ redirect_from:
   * 2021: ACM Wireless of the S3 Workshop (collocated with ACM MobiCom)
 
 ### External Reviewer	
-  * 2026: ACM CHI
+  * 2026: IEEE VR, ACM CHI
   * 2025: IEEE VR, ACM CHI, ACM Multimedia, IEEE/ACM ToN, IEEE TMC, ACM IMWUT, ISMAR
   * 2024: IEEE VR, ACM UIST, ACM CSCW, ACM IMWUT, ACM VRST, BMVC, CogSci
   * 2023: IEEE VR, ACM CSCW, ACM IMWUT, ISMAR, IEEE Systems Journal, HAI
