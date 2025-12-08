@@ -1,4 +1,4 @@
----
+<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/9dc52d5f-d9fe-4e5f-9bc5-cfb53ca503d8" /><img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/62a33236-406c-43d7-8764-8dd292682e9c" /><img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/6428f431-c5cf-4149-bc88-7d5da15d8937" />---
 permalink: /publications/
 layout: archive
 title: " "
@@ -11,6 +11,12 @@ redirect_from:
 <!--https://htmlcolorcodes.com/color-names/-->
 
 ### Full Papers (*: co-primary)
+
+* **[IEEE INFOCOM 26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics\
+  **Juheon Yi**\*, Minkyung Jeong*, Seokgyeong Shin, Goodsol Lee, Daehyeok Kim, Youngki Lee
+
+* **[IEEE INFOCOM 26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks\
+  Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
 
 * **[USENIX NSDI 26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity\
   Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
