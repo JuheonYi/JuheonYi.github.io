@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-<!-- * [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: 2025.03)  -->
+<!-- * [[CV](https://juheonyi.github.io/files/JuheonYi_CV.pdf)] (last updated: 2025.12)  -->
 <!-- * in [Media Computing Group](https://www.microsoft.com/en-us/research/group/media-computing-group/) -->
 
 I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic media applications and building mobile/edge and networked systems to support them. Current projects include:
