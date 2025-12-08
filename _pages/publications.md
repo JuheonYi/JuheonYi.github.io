@@ -12,26 +12,26 @@ redirect_from:
 
 ### Full Papers (*: co-primary)
 
-* **[IEEE INFOCOM 26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics\
+**[IEEE INFOCOM 26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics\
   **Juheon Yi**\*, Minkyung Jeong*, Seokgyeong Shin, Goodsol Lee, Daehyeok Kim, Youngki Lee
 
-* **[IEEE INFOCOM 26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks\
+**[IEEE INFOCOM 26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks\
   Goodsol Lee, Seyeon Kim, **Juheon Yi**, Junhong Min, Tuan Tran, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
 
-* **[USENIX NSDI 26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity\
+**[USENIX NSDI 26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity\
   Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
 
-* **[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
+**[ACM MobiSys 25]** Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness\
   **Juheon Yi**, Goodsol Lee, Minkyung Jeong, Seokgyeong Shin, Daehyeok Kim, Youngki Lee
 
-* **[IEEE INFOCOM 25]** Combinational Point Sampling for Fast and Accurate On-Device LiDAR 3D Object Detection\
+**[IEEE INFOCOM 25]** Combinational Point Sampling for Fast and Accurate On-Device LiDAR 3D Object Detection\
   Jinmyeong Kim\*, **Juheon Yi**\*, Wootack Kim, Seokgyeong Shin, Youngki Lee
 
-* **[IEEE Pervasive Computing 25]** VoiceSeeker: Energy-Efficient and Accurate Audio-Visual Speaker Separation on Mobile Devices\
+**[IEEE Pervasive Computing 25]** VoiceSeeker: Energy-Efficient and Accurate Audio-Visual Speaker Separation on Mobile Devices\
   **Juheon Yi**, Kyungjin Lee, Hyunseok Oh, Youngki Lee
 
-* **[NDSS 25]** DLBox: New Model Training Framework for Protecting Training Data\
-Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung Lee
+**[NDSS 25]** DLBox: New Model Training Framework for Protecting Training Data\
+  Jaewon Hur, **Juheon Yi**, Cheolwoo Myung, Sangyun Kim, Youngki Lee, Byoungyoung Lee
 
 * **[IEEE TMC 24]** Argus: Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras\
   **Juheon Yi**, Utku Acer, Fahim Kawsar, and Chulhong Min
