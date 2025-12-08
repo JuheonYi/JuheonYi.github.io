@@ -1,4 +1,3 @@
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/9dc52d5f-d9fe-4e5f-9bc5-cfb53ca503d8" /><img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/62a33236-406c-43d7-8764-8dd292682e9c" /><img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/6428f431-c5cf-4149-bc88-7d5da15d8937" />---
 permalink: /publications/
 layout: archive
 title: " "
