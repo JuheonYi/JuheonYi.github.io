@@ -16,7 +16,7 @@ redirect_from:
   **Juheon Yi**\*, Minkyung Jeong*, Seokgyeong Shin, Goodsol Lee, Daehyeok Kim, Youngki Lee
 
 * **[IEEE INFOCOM 26]** PAVE: Mitigating Non-Congestive Delay for Seamless Video Calls over NextG Mobile Networks\
-  Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
+  Goodsol Lee, Seyeon Kim, **Juheon Yi**, Junhong Min, Tuan Tran, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
 
 * **[USENIX NSDI 26]** QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity\
   Goodsol Lee, Junhong Min, Seyeon Kim, **Juheon Yi**, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk
