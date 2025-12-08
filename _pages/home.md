@@ -21,6 +21,7 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
+* [2025.12] Two papers accepted to IEEE INFOCOM 2026.
 * [2025.10] Serving as TPC for ACM MobiSys 2026.
 * [2025.07] Paper accepted to USENIX NSDI 2026.
 * [2025.03] Paper accepted to ACM MobiSys 2025.
