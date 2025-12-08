@@ -21,19 +21,31 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
-* [2025.12] Two papers accepted to IEEE INFOCOM 2026.
-* [2025.10] Serving as TPC for ACM MobiSys 2026.
-* [2025.07] Paper accepted to USENIX NSDI 2026.
-* [2025.03] Paper accepted to ACM MobiSys 2025.
-* [2025.03] Paper accepted to IEEE Pervasive Computing 2025.
-* [2024.12] Paper accepted to IEEE INFOCOM 2025.
-* [2024.12] Paper accepted to NDSS 2025.
-* [2024.12] Paper accepted to ACM HotMobile 2025.
-* [2024.09] Paper accepted to IEEE TMC.
-* [2024.06] Paper accepted to ACM MobiCom 2024.
-* [2024.06] Paper accepted to ACM UIST 2024.
-* [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
-* [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
+[2025.12] Two papers accepted to IEEE INFOCOM 2026.
+
+[2025.10] Serving as TPC for ACM MobiSys 2026.
+
+[2025.07] Paper accepted to USENIX NSDI 2026.
+
+[2025.03] Paper accepted to ACM MobiSys 2025.
+
+[2025.03] Paper accepted to IEEE Pervasive Computing 2025.
+
+[2024.12] Paper accepted to IEEE INFOCOM 2025.
+
+[2024.12] Paper accepted to NDSS 2025.
+
+[2024.12] Paper accepted to ACM HotMobile 2025.
+
+[2024.09] Paper accepted to IEEE TMC.
+
+[2024.06] Paper accepted to ACM MobiCom 2024.
+
+[2024.06] Paper accepted to ACM UIST 2024.
+
+[2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
+
+[2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
 <!-- * [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist. -->
 <!-- * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023. -->
 <!-- * [2023.02] Paper accepted to IEEE ICASSP 2023. -->
