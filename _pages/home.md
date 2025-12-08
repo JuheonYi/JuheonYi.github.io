@@ -35,9 +35,9 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 * [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.
 * [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
 <!-- * [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist. -->
-* [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023.
-* [2023.02] Paper accepted to IEEE ICASSP 2023.
-* [2022.11] Paper accepted to ACM MobiCom 2023.
+<!-- * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023. -->
+<!-- * [2023.02] Paper accepted to IEEE ICASSP 2023. -->
+<!-- * [2022.11] Paper accepted to ACM MobiCom 2023. -->
 <!-- * [2022.06] Awarded Best Graduate Student Award 2022 from BK21 SNU. -->
 <!-- * [2022.05] Paper accepted to IEEE TMC. --> 
 <!-- * [2022.02] Awarded Star Researcher Award 2021 from Dept. of CSE, SNU. -->
