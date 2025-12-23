@@ -12,7 +12,7 @@ redirect_from:
 
 ### Full Papers (*: co-primary, †: corresponding)
 
-**[IEEE PerCOM 26]** MERCI: Adaptive Multi-Expert Inference for Dynamic and Large-Vocabulary Vision Perception\
+**[IEEE PerCom 26]** MERCI: Adaptive Multi-Expert Inference for Dynamic and Large-Vocabulary Vision Perception\
   Wootak Kim, Minkyung Jeong, Seokgyeong Shin, **Juheon Yi**†, Youngki Lee†
 
 **[IEEE INFOCOM 26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics\
