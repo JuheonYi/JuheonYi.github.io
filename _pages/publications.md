@@ -10,7 +10,10 @@ redirect_from:
 <!--title: "Publications"-->
 <!--https://htmlcolorcodes.com/color-names/-->
 
-### Full Papers (*: co-primary)
+### Full Papers (*: co-primary, †: corresponding)
+
+**[IEEE PerCOM 26]** MERCI: Adaptive Multi-Expert Inference for Dynamic and Large-Vocabulary Vision Perception\
+  Wootak Kim, Minkyung Jeong, Seokgyeong Shin, **Juheon Yi**\†, Youngki Lee†
 
 **[IEEE INFOCOM 26]** Pendulum: Network-Compute Joint Scheduling for Efficient and Accurate MEC Live Video Analytics\
   **Juheon Yi**\*, Minkyung Jeong*, Seokgyeong Shin, Goodsol Lee, Daehyeok Kim, Youngki Lee
