@@ -21,6 +21,8 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
+[2026.01] I am co-chairing [NetAISys workshop](https://netaisys.github.io/) @ ACM MobiSys 2026.
+[2026.01] Paper accepted to ICLR 2026.\
 [2025.12] Paper accepted to IEEE PerCom 2026.\
 [2025.12] Two papers accepted to IEEE INFOCOM 2026.\
 [2025.10] Serving as TPC for ACM MobiSys 2026.\
