@@ -12,6 +12,9 @@ redirect_from:
 
 ### Full Papers (*: co-primary, †: corresponding)
 
+**[ICLR 26]** VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL\
+  Kyoungjun Park, Yifan Yang, **Juheon Yi**, Shicheng Zheng, Muhammad Muaz, Yifei Shen, Dongqi Han, Caihua Shan, Lili Qiu
+
 **[IEEE PerCom 26]** MERCI: Adaptive Multi-Expert Inference for Dynamic and Large-Vocabulary Vision Perception\
   Wootak Kim, Minkyung Jeong, Seokgyeong Shin, **Juheon Yi**<sup>†</sup>, Youngki Lee<sup>†</sup>
 
