@@ -16,6 +16,9 @@ redirect_from:
 2022: EuroSys (Shadow PC), ACM SenSys (Shadow PC)\
 2021: ACM Wireless of the S3 Workshop @ ACM MobiCom
 
+### Orginazing Committee ###
+2026: Co-chair for ACM NetAISys Workshop @ ACM MobiSys
+
 ### External Reviewer	
 
 2026: IEEE VR, ACM CHI\
