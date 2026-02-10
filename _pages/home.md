@@ -13,8 +13,8 @@ redirect_from:
 I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic media applications and building mobile/networked systems to support them. Current projects include:
 
 * Live video analytics on MEC and Open-RAN
-* Edge & Networked AI systems for AR/VR/MR
-* Media AI Agents
+* Edge & networked AI systems for AR/VR/MR
+* Media AI agents
 
 Prior to joining Microsoft, I was a research scientist at Nokia Bell Labs, Cambridge, UK. I received PhD in CS from Seoul National University (SNU), Korea, advised by [Youngki Lee](http://youngkilee.blogspot.com/). [My thesis](https://juheonyi.github.io/files/thesis_juheon_yi.pdf) introduced edge-cloud cooperative platform for live video analytics apps, and was awarded the Best PhD Dissertation Award from the Department of CS, SNU. My PhD study was also supported by the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows).
 I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home). 
