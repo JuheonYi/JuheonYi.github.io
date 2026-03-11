@@ -9,7 +9,7 @@ redirect_from:
 
 ### Technical Program Committee
 
-2026: ACM MobiSys, MobiCom, MM\
+2026: ACM MobiSys, MobiCom, Multimedia\
 2025: ACM Open-AI RAN Workshop @ ACM MobiCom\
 2024: ACM ImmerCom Workshop @ ACM MobiCom\
 2023: ACM MobiSys Artifact Evaluation Committee\
