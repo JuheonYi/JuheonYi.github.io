@@ -21,13 +21,14 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
-[2026.03] Serving as TPC for ACM MobiCom 2026 and ACM Multimedia 2026.\
+[2026.05] Serving on the TPC for ACM SenSys 2027 and IEEE INFOCOM 2027.\
+[2026.03] Serving on the TPC for ACM MobiCom 2026 and ACM Multimedia 2026.\
 [2026.02] Invited talks at SNU and Yonsei Univ. on "Network-Compute Co-design for Media AI Agents."\
 [2026.01] Co-chairing [NetAISys workshop](https://netaisys.github.io/) @ ACM MobiSys 2026.\
 [2026.01] Paper accepted to ICLR 2026.\
 [2025.12] Paper accepted to IEEE PerCom 2026.\
 [2025.12] Two papers accepted to IEEE INFOCOM 2026.\
-[2025.10] Serving as TPC for ACM MobiSys 2026.\
+[2025.10] Serving on the TPC for ACM MobiSys 2026.\
 [2025.07] Paper accepted to USENIX NSDI 2026.\
 [2025.03] Paper accepted to ACM MobiSys 2025.\
 [2025.03] Paper accepted to IEEE Pervasive Computing 2025.\
