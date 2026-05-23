@@ -9,6 +9,7 @@ redirect_from:
 
 ### Technical Program Committee
 
+2027: ACM SenSys, IEEE INFOCOM
 2026: ACM MobiSys, MobiCom, Multimedia\
 2025: ACM Open-AI RAN Workshop @ ACM MobiCom\
 2024: ACM ImmerCom Workshop @ ACM MobiCom\
