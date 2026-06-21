@@ -12,7 +12,7 @@ redirect_from:
 
 ### Preprints
 
-Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft [https://arxiv.org/abs/2606.15684]\
+Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft ([arxiv:2606.15684](https://arxiv.org/abs/2606.15684))\
   **Juheon Yi**, Jinglu Wang, Xiaoyi Zhang, Yan Lu
 
 ### Full Papers (*: co-primary, †: corresponding)
