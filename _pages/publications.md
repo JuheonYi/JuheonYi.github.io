@@ -10,6 +10,11 @@ redirect_from:
 <!--title: "Publications"-->
 <!--https://htmlcolorcodes.com/color-names/-->
 
+### Preprints
+
+Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraft [https://arxiv.org/abs/2606.15684]\
+  **Juheon Yi**, Jinglu Wang, Xiaoyi Zhang, Yan Lu
+
 ### Full Papers (*: co-primary, †: corresponding)
 
 **[ICLR 26]** VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL\
