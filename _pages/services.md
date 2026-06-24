@@ -10,15 +10,15 @@ redirect_from:
 ### Technical Program Committee
 
 2027: ACM SenSys, IEEE INFOCOM\
-2026: ACM MobiSys, MobiCom, Multimedia\
-2025: ACM Open-AI RAN Workshop @ ACM MobiCom\
-2024: ACM ImmerCom Workshop @ ACM MobiCom\
+2026: ACM MobiSys, MobiCom, Multimedia, Open-AI RAN Workshop @ MobiCom\
+2025: ACM Open-AI RAN Workshop @ MobiCom\
+2024: ACM ImmerCom Workshop @ MobiCom\
 2023: ACM MobiSys Artifact Evaluation Committee\
 2022: EuroSys (Shadow PC), ACM SenSys (Shadow PC)\
-2021: ACM Wireless of the S3 Workshop @ ACM MobiCom
+2021: ACM Wireless of the S3 Workshop @ MobiCom
 
 ### Orginazing Committee ###
-2026: Co-chair for ACM NetAISys Workshop @ ACM MobiSys
+2026: Co-chair for ACM NetAISys Workshop @ MobiSys
 
 ### External Reviewer	
 
