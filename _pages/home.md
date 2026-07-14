@@ -12,7 +12,7 @@ redirect_from:
 
 I am a senior researcher at Microsoft Research Asia. My research focuses on designing futuristic media applications and building mobile/networked systems to support them. Current projects include:
 
-* Agent-native mobile networks
+* Agent-to-Agent communication & Agent-native networks
 * Live video analytics on MEC and Open-RAN
 * Edge & networked AI systems for AR/VR/MR
 
@@ -31,7 +31,6 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 [2025.10] Serving on the TPC for ACM MobiSys 2026.\
 [2025.07] Paper accepted to USENIX NSDI 2026.\
 [2025.03] Paper accepted to ACM MobiSys 2025.\
-[2025.03] Paper accepted to IEEE Pervasive Computing 2025.\
 [2024.12] Paper accepted to IEEE INFOCOM 2025.\
 [2024.12] Paper accepted to NDSS 2025.\
 [2024.12] Paper accepted to ACM HotMobile 2025.\
@@ -41,6 +40,7 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 [2024.02] Nominated for ACM SIGMOBILE Doctoral Dissertation Award.\
 [2024.02] Awarded Best Dissertation Award from Dept. of CSE, SNU.\
 [2024.02] Awarded Sang Lyul Min Systems Research Fellowship 2024 from Dept. of CSE, SNU.
+<!-- * [2025.03] Paper accepted to IEEE Pervasive Computing 2025.\ -->
 <!-- * [2023.12] Joined Nokia Bell Labs, Cambridge, UK as research scientist. -->
 <!-- * [2023.10] Awarded best paper award runner-up in ACM ImmerCom 2023. -->
 <!-- * [2023.02] Paper accepted to IEEE ICASSP 2023. -->
