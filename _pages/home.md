@@ -21,6 +21,7 @@ I received BS and MS in EE from SNU, advised by [Sunghyun Choi](https://sites.go
 
 ## News
 <!-- *  <sup><span style="color:red">New</span></sup>   -->
+[2026.07] Paper accepted to USENIX NSDI 2027.\
 [2026.05] Serving on the TPC for ACM SenSys 2027 and IEEE INFOCOM 2027.\
 [2026.03] Serving on the TPC for ACM MobiCom 2026 and ACM Multimedia 2026.\
 [2026.02] Invited talks at SNU and Yonsei Univ. on "Network-Compute Co-design for Media AI Agents."\
