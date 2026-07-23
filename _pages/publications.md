@@ -17,7 +17,7 @@ Multi-agent Framework for Time-Sensitive Complementary Collaboration in Minecraf
 
 ### Full Papers (*: co-primary, †: corresponding)
 
-**[NSDI 27]** Coordinated Networking for On-Device Agent-augmented Real-Time Communication\
+**[USENIX NSDI 27]** Coordinated Networking for On-Device Agent-augmented Real-Time Communication\
   Goodsol Lee, **Juheon Yi**<sup>†</sup>, Jinglu Wang, Haowen Xu, Saewoong Bahk, Yan Lu
 
 **[ICLR 26]** VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL\
